@@ -1,0 +1,4056 @@
+{
+  "en": {
+    "text": {
+      "exploreLong": "Explore all of ul.com",
+      "exploreShort": "Explore UL",
+      "next": "Continue",
+      "cancel": "Cancel"
+    },
+    "urls": {
+      "careers": {
+        "text": "Careers",
+        "url": "https://www.ul.com/careers"
+      },
+      "contact": {
+        "text": "Contact",
+        "url": "https://www.ul.com/contact-us"
+      }
+    },
+    "features": [
+      {
+        "imgUrl": "img/feature1-1.jpg",
+        "title": "Offerings",
+        "copy": "We help you tackle your challenges with offerings tailored to business needs and industry issues, strategic solutions for the most complex problems, and services to address specific concerns.",
+        "cta": {
+          "text": "Overview",
+          "url": "https://www.ul.com/industries"
+        }
+      },
+      {
+        "imgUrl": "img/feature2-1.jpg",
+        "title": "Insights",
+        "copy": "Navigate your business in an increasingly complex world with industry leading research and actionable insights from UL.",
+        "cta": {
+          "text": "View all Insights",
+          "url": "https://www.ul.com/insights"
+        }
+      },
+      {
+        "imgUrl": "img/feature3-1.jpg",
+        "title": "News",
+        "copy": "Explore our press releases and news updates. Delve into detailed press kits for information on our work. If it’s UL and newsworthy, it’s here.",
+        "cta": {
+          "text": "Visit UL News",
+          "url": "https://www.ul.com/news"
+        }
+      }
+    ],
+    "aboutUL": {
+      "title": "About UL",
+      "copy": "We help people achieve what’s possible by empowering trust. Businesses, industries, governments, regulatory authorities and the public put their trust in us so they can make smarter decisions.",
+      "links": [
+        {
+          "text": "UL.com",
+          "url": "https://www.ul.com/"
+        },
+        {
+          "text": "Our Mission",
+          "url": "https://www.ul.com/about/mission"
+        },
+        {
+          "text": "Worldwide Locations",
+          "url": "https://www.ul.com/about/locations"
+        }
+      ]
+    },
+    "mobileLinks": [
+      {
+        "text": "UL.com",
+        "url": "https://www.ul.com/"
+      },
+      {
+        "text": "Our Mission",
+        "url": "https://www.ul.com/about/mission"
+      },
+      {
+        "text": "Worldwide Locations",
+        "url": "https://www.ul.com/about/locations"
+      },
+      {
+        "text": "Offerings",
+        "url": "https://www.ul.com/industries"
+      },
+      {
+        "text": "Insights",
+        "url": "https://www.ul.com/insights"
+      },
+      {
+        "text": "News",
+        "url": "https://www.ul.com/news"
+      }
+    ],
+    "airlockText": "The site is not available in {preferred} and is being presented in {current}",
+    "airlockPreferences": "Set Preferred Language",
+    "preferredLanguageModal": {
+      "title": "Preferred Language",
+      "subtitle": "Select your preferred global lan:uage."
+    },
+    "languageNames": {
+      "en": "English",
+      "usen": "US English",
+      "de": "Deutsch",
+      "fr": "Français",
+      "es": "Español",
+      "pt": "Português",
+      "pt-br": "Português",
+      "tr": "Türk",
+      "it": "Italiano",
+      "ja": "日本語",
+      "jp": "日本語",
+      "zh-cn": "中文 - 中国",
+      "zhhans": "中文 - 中国",
+      "scn": "中文 - 中国",
+      "tcn": "中文 - 香港",
+      "zh-hans": "中文 - 中国",
+      "zh-hk": "中文 - 香港",
+      "zh-hant": "中文-繁體中文",
+      "zhhant": "中文-繁體中文",
+      "zh-mo": "中文 - 香港",
+      "zh-sg": "中文 - 香港",
+      "zh-tw": "中文-繁體中文",
+      "ko": "한국어",
+      "vi": "Tiếng Việt",
+      "th": "ภาษาไทย",
+      "po": "Polskie",
+      "nonUS": "Non-US English",
+      "hubUS": "Global"
+    },
+    "copyright": {
+      "text": "UL and the UL logo are trademarks of UL LLC © $year <span>All Rights Reserved.</span>"
+    },
+    "urls_footer": {
+      "online_policies": {
+        "text": "Online Policies",
+        "url_faas": "https://www.ul.com/customer-resources/online-policies/"
+      },
+      "about_cookies": {
+        "text": "About Cookies",
+        "url_faas": "https://www.ul.com/customer-resources/online-policies/about-cookies/"
+      },
+      "data_subject_access": {
+        "text": "Data Subject Access Request Portal",
+        "url_faas": "https://app-de.onetrust.com/app/#/webform/e348820f-6ffc-48f0-aa9f-2d80a79304fc"
+      },
+      "impressum": {
+        "text": "Impressum",
+        "url_impressum": "https://www.ul.com/impressum"
+      }
+    },
+    "social": {
+      "facebook": "https://www.facebook.com/ULDialogue",
+      "linkedin": "https://www.linkedin.com/company/ul-",
+      "twitter": "https://www.twitter.com/uldialogue",
+      "youtube": "https://www.youtube.com/user/ULdialogue",
+      "instagram": "https://www.instagram.com/uldialogue/"
+    }
+  },
+  "jp-en": {
+    "text": {
+      "exploreLong": "Explore all of ul.com",
+      "exploreShort": "Explore UL",
+      "next": "Continue",
+      "cancel": "Cancel"
+    },
+    "urls": {
+      "careers": {
+        "text": "Careers",
+        "url": "https://www.ul.com/careers"
+      },
+      "contact": {
+        "text": "Contact",
+        "url": "https://www.ul.com/contact-us"
+      }
+    },
+    "features": [
+      {
+        "imgUrl": "img/feature1-1.jpg",
+        "title": "Offerings",
+        "copy": "We help you tackle your challenges with offerings tailored to business needs and industry issues, strategic solutions for the most complex problems, and services to address specific concerns.",
+        "cta": {
+          "text": "Overview",
+          "url": "https://www.ul.com/industries"
+        }
+      },
+      {
+        "imgUrl": "img/feature2-1.jpg",
+        "title": "Insights",
+        "copy": "Navigate your business in an increasingly complex world with industry leading research and actionable insights from UL.",
+        "cta": {
+          "text": "View all Insights",
+          "url": "https://www.ul.com/insights"
+        }
+      },
+      {
+        "imgUrl": "img/feature3-1.jpg",
+        "title": "News",
+        "copy": "Explore our press releases and news updates. Delve into detailed press kits for information on our work. If it’s UL and newsworthy, it’s here.",
+        "cta": {
+          "text": "Visit UL News",
+          "url": "https://www.ul.com/news"
+        }
+      }
+    ],
+    "aboutUL": {
+      "title": "About UL",
+      "copy": "We help people achieve what’s possible by empowering trust. Businesses, industries, governments, regulatory authorities and the public put their trust in us so they can make smarter decisions.",
+      "links": [
+        {
+          "text": "UL.com",
+          "url": "https://www.ul.com/"
+        },
+        {
+          "text": "Our Mission",
+          "url": "https://www.ul.com/about/mission"
+        },
+        {
+          "text": "Worldwide Locations",
+          "url": "https://www.ul.com/about/locations"
+        }
+      ]
+    },
+    "mobileLinks": [
+      {
+        "text": "UL.com",
+        "url": "https://www.ul.com/"
+      },
+      {
+        "text": "Our Mission",
+        "url": "https://www.ul.com/about/mission"
+      },
+      {
+        "text": "Worldwide Locations",
+        "url": "https://www.ul.com/about/locations"
+      },
+      {
+        "text": "Offerings",
+        "url": "https://www.ul.com/industries"
+      },
+      {
+        "text": "Insights",
+        "url": "https://www.ul.com/insights"
+      },
+      {
+        "text": "News",
+        "url": "https://www.ul.com/news"
+      }
+    ],
+    "airlockText": "The site is not available in {preferred} and is being presented in {current}",
+    "airlockPreferences": "Set Preferred Language",
+    "preferredLanguageModal": {
+      "title": "Preferred Language",
+      "subtitle": "Select your preferred global lan:uage."
+    },
+    "languageNames": {
+      "en": "English",
+"usen": "US English",
+      "de": "Deutsch",
+      "fr": "Français",
+      "es": "Español",
+      "pt": "Português",
+      "pt-br": "Português",
+      "tr": "Türk",
+      "it": "Italiano",
+      "ja": "日本語",
+      "jp": "日本語",
+      "zh-cn": "中文 - 中国",
+      "zhhans": "中文 - 中国",
+      "scn": "中文 - 中国",
+      "tcn": "中文 - 香港",
+      "zh-hans": "中文 - 中国",
+      "zh-hk": "中文 - 香港",
+      "zh-hant": "中文-繁體中文",
+      "zhhant": "中文-繁體中文",
+      "zh-mo": "中文 - 香港",
+      "zh-sg": "中文 - 香港",
+      "zh-tw": "中文-繁體中文",
+      "ko": "한국어",
+      "vi": "Tiếng Việt",
+      "th": "ภาษาไทย",
+      "po": "Polskie",
+      "nonUS": "Non-US English",
+      "hubUS": "Global"
+    },
+    "copyright": {
+      "text": "UL and the UL logo are trademarks of UL LLC © $year <span>All Rights Reserved.</span>"
+    },
+    "urls_footer": {
+      "online_policies": {
+        "text": "Online Policies",
+        "url_faas": "https://www.ul.com/ja/customer-resources/online-policies/"
+      },
+      "about_cookies": {
+        "text": "About Cookies",
+        "url_faas": "https://www.ul.com/ja/customer-resources/online-policies/about-cookies/"
+      },
+      "data_subject_access": {
+        "text": "Data Subject Access Request Portal",
+        "url_faas": "https://app-de.onetrust.com/app/#/webform/e348820f-6ffc-48f0-aa9f-2d80a79304fc"
+      },
+      "impressum": {
+        "text": "Impressum",
+        "url_impressum": "https://www.ul.com/impressum"
+      }
+    },
+    "social": {
+      "facebook": "https://www.facebook.com/ULDialogue",
+      "linkedin": "https://www.linkedin.com/company/ul-",
+      "twitter": "https://www.twitter.com/uldialogue",
+      "youtube": "https://www.youtube.com/user/ULdialogue",
+      "instagram": "https://www.instagram.com/uldialogue/"
+    }
+  },
+  "de": {
+    "text": {
+      "exploreLong": "Entdecken Sie ul.com",
+      "exploreShort": "Entdecken Sie UL",
+      "next": "Fortsetzen",
+      "cancel": "Abbrechen"
+    },
+    "urls": {
+      "careers": {
+        "text": "Karriere",
+        "url": "https://www.ul.com/careers"
+      },
+      "contact": {
+        "text": "Kontakt",
+        "url": "https://www.ul.com/contact-us"
+      }
+    },
+    "features": [
+      {
+        "imgUrl": "img/feature1-1.jpg",
+        "title": "Angebote",
+        "copy": "Wir helfen ihnen, Ihre Herausforderungen zu bewältigen mit Angeboten, die auf geschäftliche Anforderungen und Problemstellungen der Branche zugeschnitten sind, sowie strategischen Lösungen für die komplexesten Probleme und Dienstleistungen für spezifische Anliegen.",
+        "cta": {
+          "text": "Übersicht",
+          "url": "https://www.ul.com/industries"
+        }
+      },
+      {
+        "imgUrl": "img/feature2-1.jpg",
+        "title": "Einblicke",
+        "copy": "Steuern Sie Ihr Unternehmen in einer zunehmend komplexeren Welt durch branchenführende Forschung und umsetzbare Erkenntnissen von UL.",
+        "cta": {
+          "text": "Informieren Sie sich über aktuelle Erkenntnisse",
+          "url": "https://www.ul.com/insights"
+        }
+      },
+      {
+        "imgUrl": "img/feature3-1.jpg",
+        "title": "News",
+        "copy": "Informieren Sie sich über unsere Pressemitteilungen und aktuelle Neuigkeiten. Lesen Sie unsere detaillierten Pressemappen und erfahren Sie mehr über unsere Arbeit. Wenn es um UL geht und aktuell ist, finden Sie es hier.",
+        "cta": {
+          "text": "Besuchen Sie UL News",
+          "url": "https://www.ul.com/news"
+        }
+      }
+    ],
+    "aboutUL": {
+      "title": "Über UL",
+      "copy": "Wir helfen Menschen dabei, ihr Potenzial zu verwirklichen, indem wir Vertrauen stärken. Unternehmen, Branchen, Regierungen, Aufsichtsbehörden und die Öffentlichkeit vertrauen uns, um kluge Entscheidungen treffen zu können.",
+      "links": [
+        {
+          "text": "UL.com",
+          "url": "https://www.ul.com/"
+        },
+        {
+          "text": "Unsere Mission",
+          "url": "https://www.ul.com/about/mission"
+        },
+        {
+          "text": "Standorte weltweit",
+          "url": "https://www.ul.com/about/locations"
+        }
+      ]
+    },
+    "mobileLinks": [
+      {
+        "text": "UL.com",
+        "url": "https://www.ul.com/"
+      },
+      {
+        "text": "Unsere Mission",
+        "url": "https://www.ul.com/about/mission"
+      },
+      {
+        "text": "Standorte weltweit",
+        "url": "https://www.ul.com/about/locations"
+      },
+      {
+        "text": "Angebote",
+        "url": "https://www.ul.com/industries"
+      },
+      {
+        "text": "Einblicke",
+        "url": "https://www.ul.com/insights"
+      },
+      {
+        "text": "News",
+        "url": "https://www.ul.com/news"
+      }
+    ],
+    "airlockText": "Die Website ist nicht auf {preferred} verfügbar. Sie wird auf {current} dargestellt.",
+    "airlockPreferences": "Set Bevorzugte Sprache",
+    "preferredLanguageModal": {
+      "title": "Spracheinstellungen",
+      "subtitle": "Wählen Sie Ihre bevorzugte weltweite Sprache aus."
+    },
+    "languageNames": {
+      "en": "English",
+"usen": "US English",
+      "de": "Deutsch",
+      "fr": "Français",
+      "es": "Español",
+      "pt": "Português",
+      "pt-br": "Português",
+      "tr": "Türk",
+      "it": "Italiano",
+      "ja": "日本語",
+      "jp": "日本語",
+      "zh-cn": "中文 - 中国",
+      "zhhans": "中文 - 中国",
+      "scn": "中文 - 中国",
+      "tcn": "中文 - 香港",
+      "zh-hans": "中文 - 中国",
+      "zh-hk": "中文 - 香港",
+      "zh-hant": "中文-繁體中文",
+      "zhhant": "中文-繁體中文",
+      "zh-mo": "中文 - 香港",
+      "zh-sg": "中文 - 香港",
+      "zh-tw": "中文-繁體中文",
+      "ko": "한국어",
+      "vi": "Tiếng Việt",
+      "th": "ภาษาไทย",
+      "po": "Polskie",
+      "nonUS": "Non-US English",
+      "hubUS": "Global"
+    },
+    "copyright": {
+      "text": "UL und das UL Logo sind Marken von UL LLC © $year Alle Rechte vorbehalten."
+    },
+    "urls_footer": {
+      "online_policies": {
+        "text": "Online-Richtlinien",
+        "url_faas": "https://www.ul.com/de/customer-resources/online-policies"
+      },
+      "about_cookies": {
+        "text": "Verwendung von Cookies",
+        "url_faas": "https://www.ul.com/de/customer-resources/online-policies/about-cookies"
+      },
+      "data_subject_access": {
+        "text": "Portal zur Verwaltung persönlicher Daten",
+        "url_faas": "https://app-de.onetrust.com/app/#/webform/e348820f-6ffc-48f0-aa9f-2d80a79304fc"
+      },
+      "impressum": {
+        "text": "Impressum",
+        "url_impressum": "https://www.ul.com/impressum"
+      }
+    },
+    "social": {
+      "facebook": "https://www.facebook.com/ULDialogue",
+      "linkedin": "https://www.linkedin.com/company/ul-",
+      "twitter": "https://www.twitter.com/uldialogue",
+      "youtube": "https://www.youtube.com/user/ULdialogue",
+      "instagram": "https://www.instagram.com/uldialogue/"
+    }
+  },
+  "fr": {
+    "text": {
+      "exploreLong": "Explorer tout le site ul.com",
+      "exploreShort": "En savoir plus sur UL",
+      "next": "Continuer",
+      "cancel": "Annuler"
+    },
+    "urls": {
+      "careers": {
+        "text": "Carrières",
+        "url": "https://www.ul.com/careers"
+      },
+      "contact": {
+        "text": "Contact",
+        "url": "https://www.ul.com/contact-us"
+      }
+    },
+    "features": [
+      {
+        "imgUrl": "img/feature1-1.jpg",
+        "title": "Offres",
+        "copy": "Nous vous aidons à relever les défis auxquels vous êtes confrontés en vous proposant des offres adaptées à vos besoins professionnels et aux problèmes de votre secteur, des solutions stratégiques aux problèmes les plus complexes et des services destinés à répondre à des difficultés spécifiques.",
+        "cta": {
+          "text": "Présentation générale",
+          "url": "https://www.ul.com/industries"
+        }
+      },
+      {
+        "imgUrl": "img/feature2-1.jpg",
+        "title": "Observations",
+        "copy": "Faites avancer votre entreprise dans un environnement de plus en plus complexe en vous reposant sur les recherches et les observations exploitables de haut niveau apportées par UL.",
+        "cta": {
+          "text": "Voir toutes les observations",
+          "url": "https://www.ul.com/insights"
+        }
+      },
+      {
+        "imgUrl": "img/feature3-1.jpg",
+        "title": "Actualités",
+        "copy": "Lisez nos communiqués de presse et nos actualités. Obtenez de plus amples informations sur nos activités en consultant nos dossiers de presse détaillés. Vous y trouverez toute l'actualité d'UL.",
+        "cta": {
+          "text": "Voir l'actualité d'UL",
+          "url": "https://www.ul.com/news"
+        }
+      }
+    ],
+    "aboutUL": {
+      "title": "À propos d’UL",
+      "copy": "Nous vous aidons à atteindre vos objectifs en renforçant la confiance. Entreprises, secteur industriel, organismes publics, autorités de réglementation et grand-public nous accordent leur confiance pour prendre des décisions plus pertinentes.",
+      "links": [
+        {
+          "text": "UL.com",
+          "url": "https://www.ul.com/"
+        },
+        {
+          "text": "Notre mission",
+          "url": "https://www.ul.com/about/mission"
+        },
+        {
+          "text": "Sites à travers le monde",
+          "url": "https://www.ul.com/about/locations"
+        }
+      ]
+    },
+    "mobileLinks": [
+      {
+        "text": "UL.com",
+        "url": "https://www.ul.com/"
+      },
+      {
+        "text": "Notre mission",
+        "url": "https://www.ul.com/about/mission"
+      },
+      {
+        "text": "Sites à travers le monde",
+        "url": "https://www.ul.com/about/locations"
+      },
+      {
+        "text": "Offres",
+        "url": "https://www.ul.com/industries"
+      },
+      {
+        "text": "Observations",
+        "url": "https://www.ul.com/insights"
+      },
+      {
+        "text": "Actualités",
+        "url": "https://www.ul.com/news"
+      }
+    ],
+    "airlockText": "Le site n’est pas disponible en {preferred} et est affiché en {current}.",
+    "airlockPreferences": "Set Langue préférée",
+    "preferredLanguageModal": {
+      "title": "Choix de langue",
+      "subtitle": "Sélectionner la langue voulue."
+    },
+    "languageNames": {
+      "en": "English",
+"usen": "US English",
+      "de": "Deutsch",
+      "fr": "Français",
+      "es": "Español",
+      "pt": "Português",
+      "pt-br": "Português",
+      "tr": "Türk",
+      "it": "Italiano",
+      "ja": "日本語",
+      "jp": "日本語",
+      "zh-cn": "中文 - 中国",
+      "zhhans": "中文 - 中国",
+      "scn": "中文 - 中国",
+      "tcn": "中文 - 香港",
+      "zh-hans": "中文 - 中国",
+      "zh-hk": "中文 - 香港",
+      "zh-hant": "中文-繁體中文",
+      "zhhant": "中文-繁體中文",
+      "zh-mo": "中文 - 香港",
+      "zh-sg": "中文 - 香港",
+      "zh-tw": "中文-繁體中文",
+      "ko": "한국어",
+      "vi": "Tiếng Việt",
+      "th": "ภาษาไทย",
+      "po": "Polskie",
+      "nonUS": "Non-US English",
+      "hubUS": "Global"
+    },
+    "copyright": {
+      "text": "UL et le logo UL sont des marques déposées de UL LLC © 2020. Tous droits réservés."
+    },
+    "urls_footer": {
+      "online_policies": {
+        "text": "Politiques d’utilisation",
+        "url_faas": "https://www.ul.com/fr/customer-resources/online-policies"
+      },
+      "about_cookies": {
+        "text": "À propos des cookies",
+        "url_faas": "https://www.ul.com/fr/customer-resources/online-policies/about-cookies"
+      },
+      "data_subject_access": {
+        "text": "Demande d'accès à vos données",
+        "url_faas": "https://privacyportalde-cdn.onetrust.com/dsarwebform/7f7e12d4-5d92-4c38-8f48-2881a28a4b6a/7710146d-78ab-4a8f-98a3-3a1d86d1ad78.html"
+      },
+      "impressum": {
+        "text": "Impressum",
+        "url_impressum": "https://www.ul.com/impressum"
+      }
+    },
+    "social": {
+      "facebook": "https://www.facebook.com/ULDialogue",
+      "linkedin": "https://www.linkedin.com/company/ul-",
+      "twitter": "https://www.twitter.com/uldialogue",
+      "youtube": "https://www.youtube.com/user/ULdialogue",
+      "instagram": "https://www.instagram.com/uldialogue/"
+    }
+  },
+  "fr-CA": {
+    "text": {
+      "exploreLong": "Explorer tout le site ul.com",
+      "exploreShort": "En savoir plus sur UL",
+      "next": "Continuer",
+      "cancel": "Annuler"
+    },
+    "urls": {
+      "careers": {
+        "text": "Carrières",
+        "url": "https://www.ul.com/careers"
+      },
+      "contact": {
+        "text": "Contact",
+        "url": "https://www.ul.com/contact-us"
+      }
+    },
+    "features": [
+      {
+        "imgUrl": "img/feature1-1.jpg",
+        "title": "Offres",
+        "copy": "Nous vous aidons à relever les défis auxquels vous êtes confrontés en vous proposant des offres adaptées à vos besoins professionnels et aux problèmes de votre secteur, des solutions stratégiques aux problèmes les plus complexes et des services destinés à répondre à des difficultés spécifiques.",
+        "cta": {
+          "text": "Présentation générale",
+          "url": "https://www.ul.com/industries"
+        }
+      },
+      {
+        "imgUrl": "img/feature2-1.jpg",
+        "title": "Observations",
+        "copy": "Faites avancer votre entreprise dans un environnement de plus en plus complexe en vous reposant sur les recherches et les observations exploitables de haut niveau apportées par UL.",
+        "cta": {
+          "text": "Voir toutes les observations",
+          "url": "https://www.ul.com/insights"
+        }
+      },
+      {
+        "imgUrl": "img/feature3-1.jpg",
+        "title": "Actualités",
+        "copy": "Lisez nos communiqués de presse et nos actualités. Obtenez de plus amples informations sur nos activités en consultant nos dossiers de presse détaillés. Vous y trouverez toute l'actualité d'UL.",
+        "cta": {
+          "text": "Voir l'actualité d'UL",
+          "url": "https://www.ul.com/news"
+        }
+      }
+    ],
+    "aboutUL": {
+      "title": "À propos d’UL",
+      "copy": "Nous vous aidons à atteindre vos objectifs en renforçant la confiance. Entreprises, secteur industriel, organismes publics, autorités de réglementation et grand-public nous accordent leur confiance pour prendre des décisions plus pertinentes.",
+      "links": [
+        {
+          "text": "UL.com",
+          "url": "https://www.ul.com/"
+        },
+        {
+          "text": "Notre mission",
+          "url": "https://www.ul.com/about/mission"
+        },
+        {
+          "text": "Sites à travers le monde",
+          "url": "https://www.ul.com/about/locations"
+        }
+      ]
+    },
+    "mobileLinks": [
+      {
+        "text": "UL.com",
+        "url": "https://www.ul.com/"
+      },
+      {
+        "text": "Notre mission",
+        "url": "https://www.ul.com/about/mission"
+      },
+      {
+        "text": "Sites à travers le monde",
+        "url": "https://www.ul.com/about/locations"
+      },
+      {
+        "text": "Offres",
+        "url": "https://www.ul.com/industries"
+      },
+      {
+        "text": "Observations",
+        "url": "https://www.ul.com/insights"
+      },
+      {
+        "text": "Actualités",
+        "url": "https://www.ul.com/news"
+      }
+    ],
+    "airlockText": "Le site n’est pas disponible en {preferred} et est affiché en {current}.",
+    "airlockPreferences": "Set Langue préférée",
+    "preferredLanguageModal": {
+      "title": "Choix de langue",
+      "subtitle": "Sélectionner la langue voulue."
+    },
+    "languageNames": {
+      "en": "English",
+"usen": "US English",
+      "de": "Deutsch",
+      "fr": "Français",
+      "es": "Español",
+      "pt": "Português",
+      "pt-br": "Português",
+      "tr": "Türk",
+      "it": "Italiano",
+      "ja": "日本語",
+      "jp": "日本語",
+      "zh-cn": "中文 - 中国",
+      "zhhans": "中文 - 中国",
+      "scn": "中文 - 中国",
+      "tcn": "中文 - 香港",
+      "zh-hans": "中文 - 中国",
+      "zh-hk": "中文 - 香港",
+      "zh-hant": "中文-繁體中文",
+      "zhhant": "中文-繁體中文",
+      "zh-mo": "中文 - 香港",
+      "zh-sg": "中文 - 香港",
+      "zh-tw": "中文-繁體中文",
+      "ko": "한국어",
+      "vi": "Tiếng Việt",
+      "th": "ภาษาไทย",
+      "po": "Polskie",
+      "nonUS": "Non-US English",
+      "hubUS": "Global"
+    },
+    "copyright": {
+      "text": "UL et le logo UL sont des marques de commerce d’UL LLC © $year Tous droits réservés."
+    },
+    "urls_footer": {
+      "online_policies": {
+        "text": "Politiques en ligne d’UL",
+        "url_faas": "https://www.ul.com/customer-resources/online-policies/"
+      },
+      "about_cookies": {
+        "text": "À propos des cookies",
+        "url_faas": "https://www.ul.com/customer-resources/online-policies/about-cookies/"
+      },
+      "data_subject_access": {
+        "text": "Objet données Demande d’accès au portail",
+        "url_faas": "https://privacyportalde-cdn.onetrust.com/dsarwebform/7f7e12d4-5d92-4c38-8f48-2881a28a4b6a/7710146d-78ab-4a8f-98a3-3a1d86d1ad78.html"
+      },
+      "impressum": {
+        "text": "Impressum",
+        "url_impressum": "https://www.ul.com/impressum"
+      }
+    },
+    "social": {
+      "facebook": "https://www.facebook.com/ULDialogue",
+      "linkedin": "https://www.linkedin.com/company/ul-",
+      "twitter": "https://www.twitter.com/uldialogue",
+      "youtube": "https://www.youtube.com/user/ULdialogue",
+      "instagram": "https://www.instagram.com/uldialogue/"
+    }
+  },
+  "es": {
+    "text": {
+      "exploreLong": "Explorar todo ul.com",
+      "exploreShort": "Explore UL",
+      "next": "Continuar",
+      "cancel": "Cancelar"
+    },
+    "urls": {
+      "careers": {
+        "text": "Carreras profesionales",
+        "url": "https://www.ul.com/careers"
+      },
+      "contact": {
+        "text": "Contacto",
+        "url": "https://www.ul.com/contact-us"
+      }
+    },
+    "features": [
+      {
+        "imgUrl": "img/feature1-1.jpg",
+        "title": "Ofertas",
+        "copy": "Lo ayudamos a superar sus desafíos con ofertas hechas a la medida de las necesidades de las empresas y de los problemas de la industria, con soluciones estratégicas para los problemas más complejos y con servicios para abordar preocupaciones específicas.",
+        "cta": {
+          "text": "Visión general",
+          "url": "https://www.ul.com/industries"
+        }
+      },
+      {
+        "imgUrl": "img/feature2-1.jpg",
+        "title": "Conocimientos",
+        "copy": "Navegue con su empresa en un mundo cada vez más complejo con investigación líder en la industria y los conocimientos prácticos de UL.",
+        "cta": {
+          "text": "Vea todos los conocimientos",
+          "url": "https://www.ul.com/insights"
+        }
+      },
+      {
+        "imgUrl": "img/feature3-1.jpg",
+        "title": "Noticias",
+        "copy": "Explore nuestros comunicados de prensa y noticias. Consulte nuestros dosieres de prensa detallados para obtener más información sobre nuestro trabajo. Si se trata de UL y tiene valor periodístico, entonces está aquí.",
+        "cta": {
+          "text": "Vea las noticias de UL",
+          "url": "https://www.ul.com/news"
+        }
+      }
+    ],
+    "aboutUL": {
+      "title": "Acerca de UL",
+      "copy": "Ayudamos a que las personas desarrollen sus posibilidades potenciando su confianza. Empresas, industrias, gobiernos, autoridades de regulación y el público en general ponen su confianza en nosotros para poder tomar decisiones inteligentes.",
+      "links": [
+        {
+          "text": "UL.com",
+          "url": "https://www.ul.com/"
+        },
+        {
+          "text": "Nuestra misión",
+          "url": "https://www.ul.com/about/mission"
+        },
+        {
+          "text": "Ubicaciones en todo el mundo",
+          "url": "https://www.ul.com/about/locations"
+        }
+      ]
+    },
+    "mobileLinks": [
+      {
+        "text": "UL.com",
+        "url": "https://www.ul.com/"
+      },
+      {
+        "text": "Nuestra misión",
+        "url": "https://www.ul.com/about/mission"
+      },
+      {
+        "text": "Ubicaciones en todo el mundo",
+        "url": "https://www.ul.com/about/locations"
+      },
+      {
+        "text": "Ofertas",
+        "url": "https://www.ul.com/industries"
+      },
+      {
+        "text": "Conocimientos",
+        "url": "https://www.ul.com/insights"
+      },
+      {
+        "text": "Noticias",
+        "url": "https://www.ul.com/news"
+      }
+    ],
+    "airlockText": "La página web no está disponible en {preferred} y se presenta en {current}",
+    "airlockPreferences": "Seleccionar preferida Idioma",
+    "preferredLanguageModal": {
+      "title": "Preferencias de idioma",
+      "subtitle": "Seleccione su idioma internacional preferente"
+    },
+    "languageNames": {
+      "en": "English",
+"usen": "US English",
+      "de": "Deutsch",
+      "fr": "Français",
+      "es": "Español",
+      "pt": "Português",
+      "pt-br": "Português",
+      "tr": "Türk",
+      "it": "Italiano",
+      "ja": "日本語",
+      "jp": "日本語",
+      "zh-cn": "中文 - 中国",
+      "zhhans": "中文 - 中国",
+      "scn": "中文 - 中国",
+      "tcn": "中文 - 香港",
+      "zh-hans": "中文 - 中国",
+      "zh-hk": "中文 - 香港",
+      "zh-hant": "中文-繁體中文",
+      "zhhant": "中文-繁體中文",
+      "zh-mo": "中文 - 香港",
+      "zh-sg": "中文 - 香港",
+      "zh-tw": "中文-繁體中文",
+      "ko": "한국어",
+      "vi": "Tiếng Việt",
+      "th": "ภาษาไทย",
+      "po": "Polskie",
+      "nonUS": "Non-US English",
+      "hubUS": "Global"
+    },
+    "copyright": {
+      "text": "UL y el logotipo de UL son marcas comerciales registradas de UL LLC © 2020. Todos los derechos reservados."
+    },
+    "urls_footer": {
+      "online_policies": {
+        "text": "Políticas de uso",
+        "url_faas": "https://www.ul.com/es/customer-resources/online-policies"
+      },
+      "about_cookies": {
+        "text": "Acerca de las cookies",
+        "url_faas": "https://www.ul.com/es/customer-resources/online-policies/about-cookies"
+      },
+      "data_subject_access": {
+        "text": "Solicitud de acceso a sus datos",
+        "url_faas": "https://app-de.onetrust.com/app/#/webform/e348820f-6ffc-48f0-aa9f-2d80a79304fc"
+      },
+      "impressum": {
+        "text": "Impressum",
+        "url_impressum": "https://www.ul.com/impressum"
+      }
+    },
+    "social": {
+      "facebook": "https://www.facebook.com/ULDialogue",
+      "linkedin": "https://www.linkedin.com/company/ul-",
+      "twitter": "https://www.twitter.com/uldialogue",
+      "youtube": "https://www.youtube.com/user/ULdialogue",
+      "instagram": "https://www.instagram.com/uldialogue/"
+    }
+  },
+  "pt": {
+    "text": {
+      "exploreLong": "Conheça tudo em ul.com",
+      "exploreShort": "Conheça a UL",
+      "next": "Continuar",
+      "cancel": "Cancelar"
+    },
+    "urls": {
+      "careers": {
+        "text": "Carreiras",
+        "url": "https://www.ul.com/careers"
+      },
+      "contact": {
+        "text": "Contato",
+        "url": "https://www.ul.com/contact-us"
+      }
+    },
+    "features": [
+      {
+        "imgUrl": "img/feature1-1.jpg",
+        "title": "Ofertas",
+        "copy": "Nós o ajudamos a superar seus desafios com ofertas sob medida para as necessidades do negócio e as demandas do setor, soluções estratégicas para os problemas mais complexos, e serviços para solucionar preocupações específicas.",
+        "cta": {
+          "text": "Acesse as Ofertas da UL",
+          "url": "https://www.ul.com/industries"
+        }
+      },
+      {
+        "imgUrl": "img/feature2-1.jpg",
+        "title": "Ideias",
+        "copy": "Conduza seu negócio por um mundo cada vez mais complexo com a ajuda de pesquisas líderes no setor e ideias executáveis da UL.",
+        "cta": {
+          "text": "Veja todas as ideias",
+          "url": "https://www.ul.com/insights"
+        }
+      },
+      {
+        "imgUrl": "img/feature3-1.jpg",
+        "title": "Notícias",
+        "copy": "Consulte os nossos comunicados à imprensa e as atualizações. Pesquise detalhadamente os kits de imprensa para encontrar informações sobre o nosso trabalho. Se é da UL e foi notícia, está aqui.",
+        "cta": {
+          "text": "Veja as Notícias da UL",
+          "url": "https://www.ul.com/news"
+        }
+      }
+    ],
+    "aboutUL": {
+      "title": "Sobre a UL",
+      "copy": "Ajudamos as pessoas a alcançar o que é possível por meio do estímulo à confiança. As empresas, os setores, os governos, as autoridades reguladoras e o público confiam em nós para que possam tomar decisões mais inteligentes.",
+      "links": [
+        {
+          "text": "UL.com",
+          "url": "https://www.ul.com/"
+        },
+        {
+          "text": "Nossa missão",
+          "url": "https://www.ul.com/about/mission"
+        },
+        {
+          "text": "Escritórios pelo mundo",
+          "url": "https://www.ul.com/about/locations"
+        }
+      ]
+    },
+    "mobileLinks": [
+      {
+        "text": "UL.com",
+        "url": "https://www.ul.com/"
+      },
+      {
+        "text": "Nossa missão",
+        "url": "https://www.ul.com/about/mission"
+      },
+      {
+        "text": "Escritórios pelo mundo",
+        "url": "https://www.ul.com/about/locations"
+      },
+      {
+        "text": "Ofertas",
+        "url": "https://www.ul.com/industries"
+      },
+      {
+        "text": "Ideias",
+        "url": "https://www.ul.com/insights"
+      },
+      {
+        "text": "Notícias",
+        "url": "https://www.ul.com/news"
+      }
+    ],
+    "airlockText": "O site não está disponível em {preferred}, e está sendo mostrado em {current}.",
+    "airlockPreferences": "Definir Idioma",
+    "preferredLanguageModal": {
+      "title": "Preferências de idioma",
+      "subtitle": "Escolha o idioma global de sua preferência"
+    },
+    "languageNames": {
+      "en": "English",
+"usen": "US English",
+      "de": "Deutsch",
+      "fr": "Français",
+      "es": "Español",
+      "pt": "Português",
+      "pt-br": "Português",
+      "tr": "Türk",
+      "it": "Italiano",
+      "ja": "日本語",
+      "jp": "日本語",
+      "zh-cn": "中文 - 中国",
+      "zhhans": "中文 - 中国",
+      "scn": "中文 - 中国",
+      "tcn": "中文 - 香港",
+      "zh-hans": "中文 - 中国",
+      "zh-hk": "中文 - 香港",
+      "zh-hant": "中文-繁體中文",
+      "zhhant": "中文-繁體中文",
+      "zh-mo": "中文 - 香港",
+      "zh-sg": "中文 - 香港",
+      "zh-tw": "中文-繁體中文",
+      "ko": "한국어",
+      "vi": "Tiếng Việt",
+      "th": "ภาษาไทย",
+      "po": "Polskie",
+      "nonUS": "Non-US English",
+      "hubUS": "Global"
+    },
+    "copyright": {
+      "text": "A UL e o logotipo da UL são marcas registradas da UL LLC © $year Todos os direitos reservados."
+    },
+    "urls_footer": {
+      "online_policies": {
+        "text": "As políticas online da UL",
+        "url_faas": "https://www.ul.com/pt-br/customer-resources/online-policies"
+      },
+      "about_cookies": {
+        "text": "Sobre os cookies",
+        "url_faas": "https://www.ul.com/pt-br/customer-resources/online-policies/about-cookies"
+      },
+      "data_subject_access": {
+        "text": "Portal de solicitação de acesso ao titular dos dados",
+        "url_faas": "https://app-de.onetrust.com/app/#/webform/e348820f-6ffc-48f0-aa9f-2d80a79304fc"
+      },
+      "impressum": {
+        "text": "Impressum",
+        "url_impressum": "https://www.ul.com/impressum"
+      }
+    },
+    "social": {
+      "facebook": "https://www.facebook.com/ULDialogue",
+      "linkedin": "https://www.linkedin.com/company/ul-",
+      "twitter": "https://www.twitter.com/uldialogue",
+      "youtube": "https://www.youtube.com/user/ULdialogue",
+      "instagram": "https://www.instagram.com/uldialogue/"
+    }
+  },
+  "pt-br": {
+    "text": {
+      "exploreLong": "Conheça tudo em ul.com",
+      "exploreShort": "Conheça a UL",
+      "next": "Continuar",
+      "cancel": "Cancelar"
+    },
+    "urls": {
+      "careers": {
+        "text": "Carreiras",
+        "url": "https://www.ul.com/careers"
+      },
+      "contact": {
+        "text": "Contato",
+        "url": "https://www.ul.com/contact-us"
+      }
+    },
+    "features": [
+      {
+        "imgUrl": "img/feature1-1.jpg",
+        "title": "Ofertas",
+        "copy": "Nós o ajudamos a superar seus desafios com ofertas sob medida para as necessidades do negócio e as demandas do setor, soluções estratégicas para os problemas mais complexos, e serviços para solucionar preocupações específicas.",
+        "cta": {
+          "text": "Acesse as Ofertas da UL",
+          "url": "https://www.ul.com/industries"
+        }
+      },
+      {
+        "imgUrl": "img/feature2-1.jpg",
+        "title": "Ideias",
+        "copy": "Conduza seu negócio por um mundo cada vez mais complexo com a ajuda de pesquisas líderes no setor e ideias executáveis da UL.",
+        "cta": {
+          "text": "Veja todas as ideias",
+          "url": "https://www.ul.com/insights"
+        }
+      },
+      {
+        "imgUrl": "img/feature3-1.jpg",
+        "title": "Notícias",
+        "copy": "Consulte os nossos comunicados à imprensa e as atualizações. Pesquise detalhadamente os kits de imprensa para encontrar informações sobre o nosso trabalho. Se é da UL e foi notícia, está aqui.",
+        "cta": {
+          "text": "Veja as Notícias da UL",
+          "url": "https://www.ul.com/news"
+        }
+      }
+    ],
+    "aboutUL": {
+      "title": "Sobre a UL",
+      "copy": "Ajudamos as pessoas a alcançar o que é possível por meio do estímulo à confiança. As empresas, os setores, os governos, as autoridades reguladoras e o público confiam em nós para que possam tomar decisões mais inteligentes.",
+      "links": [
+        {
+          "text": "UL.com",
+          "url": "https://www.ul.com/"
+        },
+        {
+          "text": "Nossa missão",
+          "url": "https://www.ul.com/about/mission"
+        },
+        {
+          "text": "Escritórios pelo mundo",
+          "url": "https://www.ul.com/about/locations"
+        }
+      ]
+    },
+    "mobileLinks": [
+      {
+        "text": "UL.com",
+        "url": "https://www.ul.com/"
+      },
+      {
+        "text": "Nossa missão",
+        "url": "https://www.ul.com/about/mission"
+      },
+      {
+        "text": "Escritórios pelo mundo",
+        "url": "https://www.ul.com/about/locations"
+      },
+      {
+        "text": "Ofertas",
+        "url": "https://www.ul.com/industries"
+      },
+      {
+        "text": "Ideias",
+        "url": "https://www.ul.com/insights"
+      },
+      {
+        "text": "Notícias",
+        "url": "https://www.ul.com/news"
+      }
+    ],
+    "airlockText": "O site não está disponível em {preferred}, e está sendo mostrado em {current}.",
+    "airlockPreferences": "Definir Idioma",
+    "preferredLanguageModal": {
+      "title": "Preferências de idioma",
+      "subtitle": "Escolha o idioma global de sua preferência"
+    },
+    "languageNames": {
+      "en": "English",
+"usen": "US English",
+      "de": "Deutsch",
+      "fr": "Français",
+      "es": "Español",
+      "pt": "Português",
+      "pt-br": "Português",
+      "tr": "Türk",
+      "it": "Italiano",
+      "ja": "日本語",
+      "jp": "日本語",
+      "zh-cn": "中文 - 中国",
+      "zhhans": "中文 - 中国",
+      "scn": "中文 - 中国",
+      "tcn": "中文 - 香港",
+      "zh-hans": "中文 - 中国",
+      "zh-hk": "中文 - 香港",
+      "zh-hant": "中文-繁體中文",
+      "zhhant": "中文-繁體中文",
+      "zh-mo": "中文 - 香港",
+      "zh-sg": "中文 - 香港",
+      "zh-tw": "中文-繁體中文",
+      "ko": "한국어",
+      "vi": "Tiếng Việt",
+      "th": "ภาษาไทย",
+      "po": "Polskie",
+      "nonUS": "Non-US English",
+      "hubUS": "Global"
+    },
+    "copyright": {
+      "text": "A UL e o logotipo da UL são marcas registradas da UL LLC © $year Todos os direitos reservados."
+    },
+    "urls_footer": {
+      "online_policies": {
+        "text": "As políticas online da UL",
+        "url_faas": "https://www.ul.com/pt-br/customer-resources/online-policies"
+      },
+      "about_cookies": {
+        "text": "Sobre os cookies",
+        "url_faas": "https://www.ul.com/pt-br/customer-resources/online-policies/about-cookies"
+      },
+      "data_subject_access": {
+        "text": "Portal de solicitação de acesso ao titular dos dados",
+        "url_faas": "https://app-de.onetrust.com/app/#/webform/e348820f-6ffc-48f0-aa9f-2d80a79304fc"
+      },
+      "impressum": {
+        "text": "Impressum",
+        "url_impressum": "https://www.ul.com/impressum"
+      }
+    },
+    "social": {
+      "facebook": "https://www.facebook.com/ULDialogue",
+      "linkedin": "https://www.linkedin.com/company/ul-",
+      "twitter": "https://www.twitter.com/uldialogue",
+      "youtube": "https://www.youtube.com/user/ULdialogue",
+      "instagram": "https://www.instagram.com/uldialogue/"
+    }
+  },
+  "tr": {
+    "text": {
+      "exploreLong": "ul.com'un tamamını keşfedin",
+      "exploreShort": "UL Haberler'i",
+      "next": "Devam",
+      "cancel": "İptal"
+    },
+    "urls": {
+      "careers": {
+        "text": "Kariyer",
+        "url": "https://www.ul.com/careers"
+      },
+      "contact": {
+        "text": "İletişim",
+        "url": "https://www.ul.com/contact-us"
+      }
+    },
+    "features": [
+      {
+        "imgUrl": "img/feature1-1.jpg",
+        "title": "Teklifler",
+        "copy": "Zorluklarınızla başa çıkmanıza yardımcı oluyor işletme ihtiyaçları ve endüstri sorunları için özelleştirilmiş teklifler, en karmaşık sorunlar için stratejik çözümler ve belirli endişe unsurlarını ele almak için hizmetlerle bunu başarıyoruz.",
+        "cta": {
+          "text": "UL Haberler'i ziyaret edin",
+          "url": "https://www.ul.com/industries"
+        }
+      },
+      {
+        "imgUrl": "img/feature2-1.jpg",
+        "title": "İçgörüler",
+        "copy": "UL'nin sektör lideri araştırması ve harekete geçilebilir içgörüleri ile, gittikçe karmaşık hale gelen dünyada, işletmenize yön verin.",
+        "cta": {
+          "text": "Tüm İçgörüleri Görüntüle",
+          "url": "https://www.ul.com/insights"
+        }
+      },
+      {
+        "imgUrl": "img/feature3-1.jpg",
+        "title": "Haberler",
+        "copy": "Basın bültenlerimizi ve haber güncellemelerimizi keşfedin. Çalışmalarımız hakkında bilgi için ayrıntılı basın kitlerimizi derinlemesine araştırın. Şayet UL ile ilgili ve haber olmaya layıksa, buradadır.",
+        "cta": {
+          "text": "UL Haberlerini Görüntüle",
+          "url": "https://www.ul.com/news"
+        }
+      }
+    ],
+    "aboutUL": {
+      "title": "UL Hakkında",
+      "copy": "Güveni yükselterek insanların mümkün olanları başarmasına yardımcı olmaktayız. İşletmeler, endüstriler, devletler, düzenleyici makamlar ve kamu, daha akıllı kararlar verebilmek için bize güvenmektedirler.",
+      "links": [
+        {
+          "text": "UL.com",
+          "url": "https://www.ul.com/"
+        },
+        {
+          "text": "Misyonumuz",
+          "url": "https://www.ul.com/about/mission"
+        },
+        {
+          "text": "Dünya Genelinde Ofislerimiz",
+          "url": "https://www.ul.com/about/locations"
+        }
+      ]
+    },
+    "mobileLinks": [
+      {
+        "text": "UL.com",
+        "url": "https://www.ul.com/"
+      },
+      {
+        "text": "Misyonumuz",
+        "url": "https://www.ul.com/about/mission"
+      },
+      {
+        "text": "Dünya Genelinde Ofislerimiz",
+        "url": "https://www.ul.com/about/locations"
+      },
+      {
+        "text": "Teklifler",
+        "url": "https://www.ul.com/industries"
+      },
+      {
+        "text": "İçgörüler",
+        "url": "https://www.ul.com/insights"
+      },
+      {
+        "text": "Haberler",
+        "url": "https://www.ul.com/news"
+      }
+    ],
+    "airlockText": "Site {preferred} dilinde görüntülenemiyor, ancak {current} dilinde görüntülenebilir.",
+    "airlockPreferences": "Tercih Dili ayarla",
+    "preferredLanguageModal": {
+      "title": "Dil Tercihleri",
+      "subtitle": "Tercih ettiğiniz genel dili seçin."
+    },
+    "languageNames": {
+      "en": "English",
+"usen": "US English",
+      "de": "Deutsch",
+      "fr": "Français",
+      "es": "Español",
+      "pt": "Português",
+      "pt-br": "Português",
+      "tr": "Türk",
+      "it": "Italiano",
+      "ja": "日本語",
+      "jp": "日本語",
+      "zh-cn": "中文 - 中国",
+      "zhhans": "中文 - 中国",
+      "scn": "中文 - 中国",
+      "tcn": "中文 - 香港",
+      "zh-hans": "中文 - 中国",
+      "zh-hk": "中文 - 香港",
+      "zh-hant": "中文-繁體中文",
+      "zhhant": "中文-繁體中文",
+      "zh-mo": "中文 - 香港",
+      "zh-sg": "中文 - 香港",
+      "zh-tw": "中文-繁體中文",
+      "ko": "한국어",
+      "vi": "Tiếng Việt",
+      "th": "ภาษาไทย",
+      "po": "Polskie",
+      "nonUS": "Non-US English",
+      "hubUS": "Global"
+    },
+    "copyright": {
+      "text": "UL ve UL logosu UL LLC şirketinin ticari markalarıdır © $year Tüm Hakları Saklıdır."
+    },
+    "urls_footer": {
+      "online_policies": {
+        "text": "Politikalarını kabul ediyorum",
+        "url_faas": "https://www.ul.com/customer-resources/online-policies/"
+      },
+      "about_cookies": {
+        "text": "Tanımlama Bilgileri Hakkında",
+        "url_faas": "https://www.ul.com/customer-resources/online-policies/about-cookies/"
+      },
+      "data_subject_access": {
+        "text": "Veri Sahibi Erişim Talebi Portalı",
+        "url_faas": "https://app-de.onetrust.com/app/#/webform/e348820f-6ffc-48f0-aa9f-2d80a79304fc"
+      },
+      "impressum": {
+        "text": "Impressum",
+        "url_impressum": "https://www.ul.com/impressum"
+      }
+    },
+    "social": {
+      "facebook": "https://www.facebook.com/ULDialogue",
+      "linkedin": "https://www.linkedin.com/company/ul-",
+      "twitter": "https://www.twitter.com/uldialogue",
+      "youtube": "https://www.youtube.com/user/ULdialogue",
+      "instagram": "https://www.instagram.com/uldialogue/"
+    }
+  },
+  "it": {
+    "text": {
+      "exploreLong": "Scoprite tutto di ul.com",
+      "exploreShort": "Scoprite UL",
+      "next": "Continua",
+      "cancel": "Annulla"
+    },
+    "urls": {
+      "careers": {
+        "text": "Carriere",
+        "url": "https://www.ul.com/careers"
+      },
+      "contact": {
+        "text": "Contatti",
+        "url": "https://www.ul.com/contact-us"
+      }
+    },
+    "features": [
+      {
+        "imgUrl": "img/feature1-1.jpg",
+        "title": "Offerte",
+        "copy": "Vi aiutiamo ad affrontare le vostre sfide con offerte personalizzate in base alle esigenze aziendali e alle problematiche del settore, soluzioni strategiche ai problemi più complessi e servizi per gestire questioni specifiche.",
+        "cta": {
+          "text": "Visitate la sezione notizie UL",
+          "url": "https://www.ul.com/industries"
+        }
+      },
+      {
+        "imgUrl": "img/feature2-1.jpg",
+        "title": "Approfondimenti",
+        "copy": "Guidate la vostra attività in un mondo sempre più complesso grazie alla ricerca leader del settore e alle analisi implementabili di UL.",
+        "cta": {
+          "text": "Vedi tutte le analisi",
+          "url": "https://www.ul.com/insights"
+        }
+      },
+      {
+        "imgUrl": "img/feature3-1.jpg",
+        "title": "Notizie",
+        "copy": "Consultate i nostri comunicati stampa e i vari aggiornamenti. Sfogliate le cartelle stampa dettagliate per ulteriori informazioni sul nostro lavoro. Tutto quello che riguarda UL e le notizie rilevanti sono qui.",
+        "cta": {
+          "text": "Offerte UL",
+          "url": "https://www.ul.com/news"
+        }
+      }
+    ],
+    "aboutUL": {
+      "title": "Informazioni su UL",
+      "copy": "Aiutiamo le persone a ottenere tutto il possibile rafforzando la fiducia. Le imprese, le industrie, i governi, le autorità di controllo e il pubblico si fidano di noi per poter prendere decisioni più oculate.",
+      "links": [
+        {
+          "text": "UL.com",
+          "url": "https://www.ul.com/"
+        },
+        {
+          "text": "La nostra missione",
+          "url": "https://www.ul.com/about/mission"
+        },
+        {
+          "text": "Sedi nel mondo",
+          "url": "https://www.ul.com/about/locations"
+        }
+      ]
+    },
+    "mobileLinks": [
+      {
+        "text": "UL.com",
+        "url": "https://www.ul.com/"
+      },
+      {
+        "text": "La nostra missione",
+        "url": "https://www.ul.com/about/mission"
+      },
+      {
+        "text": "Sedi nel mondo",
+        "url": "https://www.ul.com/about/locations"
+      },
+      {
+        "text": "Offerte",
+        "url": "https://www.ul.com/industries"
+      },
+      {
+        "text": "Approfondimenti",
+        "url": "https://www.ul.com/insights"
+      },
+      {
+        "text": "Notizie",
+        "url": "https://www.ul.com/news"
+      }
+    ],
+    "airlockText": "Il sito non è disponibile in {preferred} e viene mostrato in {current}.",
+    "airlockPreferences": "Imposta Lingua preferita",
+    "preferredLanguageModal": {
+      "title": "Impostazioni lingua",
+      "subtitle": "Seleziona la tua lingua globale preferita."
+    },
+    "languageNames": {
+      "en": "English",
+"usen": "US English",
+      "de": "Deutsch",
+      "fr": "Français",
+      "es": "Español",
+      "pt": "Português",
+      "pt-br": "Português",
+      "tr": "Türk",
+      "it": "Italiano",
+      "ja": "日本語",
+      "jp": "日本語",
+      "zh-cn": "中文 - 中国",
+      "zhhans": "中文 - 中国",
+      "scn": "中文 - 中国",
+      "tcn": "中文 - 香港",
+      "zh-hans": "中文 - 中国",
+      "zh-hk": "中文 - 香港",
+      "zh-hant": "中文-繁體中文",
+      "zhhant": "中文-繁體中文",
+      "zh-mo": "中文 - 香港",
+      "zh-sg": "中文 - 香港",
+      "zh-tw": "中文-繁體中文",
+      "ko": "한국어",
+      "vi": "Tiếng Việt",
+      "th": "ภาษาไทย",
+      "po": "Polskie",
+      "nonUS": "Non-US English",
+      "hubUS": "Global"
+    },
+    "copyright": {
+      "text": "UL e il logo UL logo sono marchi registrati di proprietà di UL LLC © 2020. Tutti i diritti riservati."
+    },
+    "urls_footer": {
+      "online_policies": {
+        "text": "Informativa sulla online",
+        "url_faas": "https://www.ul.com/it/customer-resources/online-policies"
+      },
+      "about_cookies": {
+        "text": "Politica sui cookies",
+        "url_faas": "https://www.ul.com/it/customer-resources/online-policies/about-cookies"
+      },
+      "data_subject_access": {
+        "text": "Portale per la richiesta di accesso ai dati",
+        "url_faas": "https://app-de.onetrust.com/app/#/webform/e348820f-6ffc-48f0-aa9f-2d80a79304fc"
+      },
+      "impressum": {
+        "text": "Impressum",
+        "url_impressum": "https://www.ul.com/impressum"
+      }
+    },
+    "social": {
+      "facebook": "https://www.facebook.com/ULDialogue",
+      "linkedin": "https://www.linkedin.com/company/ul-",
+      "twitter": "https://www.twitter.com/uldialogue",
+      "youtube": "https://www.youtube.com/user/ULdialogue",
+      "instagram": "https://www.instagram.com/uldialogue/"
+    }
+  },
+  "jp": {
+    "text": {
+      "exploreLong": "ul.comの概要をすべて表示",
+      "exploreShort": "ULの概要",
+      "next": "続行",
+      "cancel": "キャンセル"
+    },
+    "urls": {
+      "careers": {
+        "text": "採用情報",
+        "url": "https://www.ul.com/careers"
+      },
+      "contact": {
+        "text": "連絡先",
+        "url": "https://www.ul.com/contact-us"
+      }
+    },
+    "features": [
+      {
+        "imgUrl": "img/feature1-1.jpg",
+        "title": "サービス",
+        "copy": "当社では、お客様の課題を解決するため、ビジネスニーズや業界の問題に合わせたサービス、 最も複雑な問題にも対処できる戦略的な解決策、特殊な懸念事項に対応するためのサービスをご提供しています。",
+        "cta": {
+          "text": "ULのニュースに移動する",
+          "url": "https://www.ul.com/industries"
+        }
+      },
+      {
+        "imgUrl": "img/feature2-1.jpg",
+        "title": "インサイト",
+        "copy": "業界をリードする調査やULの実践可能なインサイトによって、ますます複雑になる世界でお客様のビジネスを促進します。",
+        "cta": {
+          "text": "すべてのインサイトを表示",
+          "url": "https://www.ul.com/insights"
+        }
+      },
+      {
+        "imgUrl": "img/feature3-1.jpg",
+        "title": "ニュース",
+        "copy": "当社のプレスリリースと最新ニュースをご覧ください。当社の業務に関する情報については、詳細が記載されたプレスキットをご参照ください。ULに関する主な情報が掲載されています。",
+        "cta": {
+          "text": "ULのサービス",
+          "url": "https://www.ul.com/news"
+        }
+      }
+    ],
+    "aboutUL": {
+      "title": "ULについて",
+      "copy": "当社は、信頼性を強化することで可能性の現実化に向けて皆さんを支援しています。企業、産業、政府、規制機関、一般社会が、よりスマートな意思決定を行うため、当社に信頼を寄せています。",
+      "links": [
+        {
+          "text": "UL.com",
+          "url": "https://www.ul.com/"
+        },
+        {
+          "text": "ULのミッション",
+          "url": "https://www.ul.com/about/mission"
+        },
+        {
+          "text": "事業所一覧",
+          "url": "https://www.ul.com/about/locations"
+        }
+      ]
+    },
+    "mobileLinks": [
+      {
+        "text": "UL.com",
+        "url": "https://www.ul.com/"
+      },
+      {
+        "text": "ULのミッション",
+        "url": "https://www.ul.com/about/mission"
+      },
+      {
+        "text": "事業所一覧",
+        "url": "https://www.ul.com/about/locations"
+      },
+      {
+        "text": "サービス",
+        "url": "https://www.ul.com/industries"
+      },
+      {
+        "text": "インサイト",
+        "url": "https://www.ul.com/insights"
+      },
+      {
+        "text": "ニュース",
+        "url": "https://www.ul.com/news"
+      }
+    ],
+    "airlockText": "このウェブサイトは、ご希望の言語{preferred}ではご覧いただけないため、{current}で表示されています。",
+    "airlockPreferences": "希望言語を設定",
+    "preferredLanguageModal": {
+      "title": "言語の設定",
+      "subtitle": "ご希望の言語を選択してください"
+    },
+    "languageNames": {
+      "en": "English",
+"usen": "US English",
+      "de": "Deutsch",
+      "fr": "Français",
+      "es": "Español",
+      "pt": "Português",
+      "pt-br": "Português",
+      "tr": "Türk",
+      "it": "Italiano",
+      "ja": "日本語",
+      "jp": "日本語",
+      "zh-cn": "中文 - 中国",
+      "zhhans": "中文 - 中国",
+      "scn": "中文 - 中国",
+      "tcn": "中文 - 香港",
+      "zh-hans": "中文 - 中国",
+      "zh-hk": "中文 - 香港",
+      "zh-hant": "中文-繁體中文",
+      "zhhant": "中文-繁體中文",
+      "zh-mo": "中文 - 香港",
+      "zh-sg": "中文 - 香港",
+      "zh-tw": "中文-繁體中文",
+      "ko": "한국어",
+      "vi": "Tiếng Việt",
+      "th": "ภาษาไทย",
+      "po": "Polskie",
+      "nonUS": "Non-US English",
+      "hubUS": "Global"
+    },
+    "copyright": {
+      "text": "ULの名称およびULのロゴはUL LLCの商標です。 © $year 全著作権所有。"
+    },
+    "urls_footer": {
+      "online_policies": {
+        "text": "同意します。",
+        "url_faas": "https://www.ul.com/ja/customer-resources/online-policies"
+      },
+      "about_cookies": {
+        "text": "Cookieについて",
+        "url_faas": "https://www.ul.com/ja/customer-resources/online-policies/about-cookies"
+      },
+      "data_subject_access": {
+        "text": "データ主体アクセスリクエストポータル",
+        "url_faas": "https://app-de.onetrust.com/app/#/webform/e348820f-6ffc-48f0-aa9f-2d80a79304fc"
+      },
+      "impressum": {
+        "text": "Impressum",
+        "url_impressum": "https://www.ul.com/impressum"
+      }
+    },
+    "social": {
+      "facebook": "https://www.facebook.com/ULDialogue",
+      "linkedin": "https://www.linkedin.com/company/ul-",
+      "twitter": "https://www.twitter.com/uldialogue",
+      "youtube": "https://www.youtube.com/user/ULdialogue",
+      "instagram": "https://www.instagram.com/uldialogue/"
+    }
+  },
+  "ja": {
+    "text": {
+      "exploreLong": "ul.comの概要をすべて表示",
+      "exploreShort": "ULの概要",
+      "next": "続行",
+      "cancel": "キャンセル"
+    },
+    "urls": {
+      "careers": {
+        "text": "採用情報",
+        "url": "https://www.ul.com/careers"
+      },
+      "contact": {
+        "text": "連絡先",
+        "url": "https://www.ul.com/contact-us"
+      }
+    },
+    "features": [
+      {
+        "imgUrl": "img/feature1-1.jpg",
+        "title": "サービス",
+        "copy": "当社では、お客様の課題を解決するため、ビジネスニーズや業界の問題に合わせたサービス、 最も複雑な問題にも対処できる戦略的な解決策、特殊な懸念事項に対応するためのサービスをご提供しています。",
+        "cta": {
+          "text": "ULのニュースに移動する",
+          "url": "https://www.ul.com/industries"
+        }
+      },
+      {
+        "imgUrl": "img/feature2-1.jpg",
+        "title": "インサイト",
+        "copy": "業界をリードする調査やULの実践可能なインサイトによって、ますます複雑になる世界でお客様のビジネスを促進します。",
+        "cta": {
+          "text": "すべてのインサイトを表示",
+          "url": "https://www.ul.com/insights"
+        }
+      },
+      {
+        "imgUrl": "img/feature3-1.jpg",
+        "title": "ニュース",
+        "copy": "当社のプレスリリースと最新ニュースをご覧ください。当社の業務に関する情報については、詳細が記載されたプレスキットをご参照ください。ULに関する主な情報が掲載されています。",
+        "cta": {
+          "text": "ULのサービス",
+          "url": "https://www.ul.com/news"
+        }
+      }
+    ],
+    "aboutUL": {
+      "title": "ULについて",
+      "copy": "当社は、信頼性を強化することで可能性の現実化に向けて皆さんを支援しています。企業、産業、政府、規制機関、一般社会が、よりスマートな意思決定を行うため、当社に信頼を寄せています。",
+      "links": [
+        {
+          "text": "UL.com",
+          "url": "https://www.ul.com/"
+        },
+        {
+          "text": "ULのミッション",
+          "url": "https://www.ul.com/about/mission"
+        },
+        {
+          "text": "事業所一覧",
+          "url": "https://www.ul.com/about/locations"
+        }
+      ]
+    },
+    "mobileLinks": [
+      {
+        "text": "UL.com",
+        "url": "https://www.ul.com/"
+      },
+      {
+        "text": "ULのミッション",
+        "url": "https://www.ul.com/about/mission"
+      },
+      {
+        "text": "事業所一覧",
+        "url": "https://www.ul.com/about/locations"
+      },
+      {
+        "text": "サービス",
+        "url": "https://www.ul.com/industries"
+      },
+      {
+        "text": "インサイト",
+        "url": "https://www.ul.com/insights"
+      },
+      {
+        "text": "ニュース",
+        "url": "https://www.ul.com/news"
+      }
+    ],
+    "airlockText": "このウェブサイトは、ご希望の言語{preferred}ではご覧いただけないため、{current}で表示されています。",
+    "airlockPreferences": "希望言語を設定",
+    "preferredLanguageModal": {
+      "title": "言語の設定",
+      "subtitle": "ご希望の言語を選択してください"
+    },
+    "languageNames": {
+      "en": "English",
+"usen": "US English",
+      "de": "Deutsch",
+      "fr": "Français",
+      "es": "Español",
+      "pt": "Português",
+      "pt-br": "Português",
+      "tr": "Türk",
+      "it": "Italiano",
+      "ja": "日本語",
+      "jp": "日本語",
+      "zh-cn": "中文 - 中国",
+      "zhhans": "中文 - 中国",
+      "scn": "中文 - 中国",
+      "tcn": "中文 - 香港",
+      "zh-hans": "中文 - 中国",
+      "zh-hk": "中文 - 香港",
+      "zh-hant": "中文-繁體中文",
+      "zhhant": "中文-繁體中文",
+      "zh-mo": "中文 - 香港",
+      "zh-sg": "中文 - 香港",
+      "zh-tw": "中文-繁體中文",
+      "ko": "한국어",
+      "vi": "Tiếng Việt",
+      "th": "ภาษาไทย",
+      "po": "Polskie",
+      "nonUS": "Non-US English",
+      "hubUS": "Global"
+    },
+    "copyright": {
+      "text": "ULの名称およびULのロゴはUL LLCの商標です。 © $year 全著作権所有。"
+    },
+    "urls_footer": {
+      "online_policies": {
+        "text": "同意します。",
+        "url_faas": "https://www.ul.com/ja/customer-resources/online-policies"
+      },
+      "about_cookies": {
+        "text": "Cookieについて",
+        "url_faas": "https://www.ul.com/ja/customer-resources/online-policies/about-cookies"
+      },
+      "data_subject_access": {
+        "text": "データ主体アクセスリクエストポータル",
+        "url_faas": "https://app-de.onetrust.com/app/#/webform/e348820f-6ffc-48f0-aa9f-2d80a79304fc"
+      },
+      "impressum": {
+        "text": "Impressum",
+        "url_impressum": "https://www.ul.com/impressum"
+      }
+    },
+    "social": {
+      "facebook": "https://www.facebook.com/ULDialogue",
+      "linkedin": "https://www.linkedin.com/company/ul-",
+      "twitter": "https://www.twitter.com/uldialogue",
+      "youtube": "https://www.youtube.com/user/ULdialogue",
+      "instagram": "https://www.instagram.com/uldialogue/"
+    }
+  },
+  "scn": {
+    "text": {
+      "exploreLong": "浏览所有 ul.com 网站",
+      "exploreShort": "探索 UL",
+      "next": "继续",
+      "cancel": "取消"
+    },
+    "urls": {
+      "careers": {
+        "text": "工作机会",
+        "url": "https://www.ul.com/careers"
+      },
+      "contact": {
+        "text": "连络人",
+        "url": "https://www.ul.com/contact-us"
+      }
+    },
+    "features": [
+      {
+        "imgUrl": "img/feature1-1.jpg",
+        "title": "服务",
+        "copy": "我们专为业务需求和行业问题 量身打造服务，并提供适合最复杂问题的战略解决方案，以及可解决特定问题的服务，帮助您从容应对挑战。",
+        "cta": {
+          "text": "概况",
+          "url": "https://www.ul.com/industries"
+        }
+      },
+      {
+        "imgUrl": "img/feature2-1.jpg",
+        "title": "洞察",
+        "copy": "利用 UL 的业界领先研究和可行性深入分析，在日益复杂的世界中针对您的业务找到正确的应对方式。",
+        "cta": {
+          "text": "查看所有洞察",
+          "url": "https://www.ul.com/insights"
+        }
+      },
+      {
+        "imgUrl": "img/feature3-1.jpg",
+        "title": "新闻",
+        "copy": "浏览我们的新闻稿和新闻更新。深入探索详细的新闻资料，了解有关 UL 工作的信息。此处汇集了所有 UL 具有新闻价值的信息。",
+        "cta": {
+          "text": "UL 服务",
+          "url": "https://www.ul.com/news"
+        }
+      }
+    ],
+    "aboutUL": {
+      "title": "关于 UL",
+      "copy": "UL 通过赋予信任来帮助人们实现可能的目标。企业、行业、政府、监管机构和公众信任 UL，使他们能做出更明智的决策。",
+      "links": [
+        {
+          "text": "UL.com",
+          "url": "https://www.ul.com/"
+        },
+        {
+          "text": "我们的使命",
+          "url": "https://www.ul.com/about/mission"
+        },
+        {
+          "text": "全球分支机构",
+          "url": "https://www.ul.com/about/locations"
+        }
+      ]
+    },
+    "mobileLinks": [
+      {
+        "text": "UL.com",
+        "url": "https://www.ul.com/"
+      },
+      {
+        "text": "我们的使命",
+        "url": "https://www.ul.com/about/mission"
+      },
+      {
+        "text": "全球分支机构",
+        "url": "https://www.ul.com/about/locations"
+      },
+      {
+        "text": "服务",
+        "url": "https://www.ul.com/industries"
+      },
+      {
+        "text": "洞察",
+        "url": "https://www.ul.com/insights"
+      },
+      {
+        "text": "新闻",
+        "url": "https://www.ul.com/news"
+      }
+    ],
+    "airlockText": "本网站不提供{preferred}，将使用{current}",
+    "airlockPreferences": "设置首选语言",
+    "preferredLanguageModal": {
+      "title": "语言偏好设置",
+      "subtitle": "选择您的首选全球语言"
+    },
+    "languageNames": {
+      "en": "English",
+"usen": "US English",
+      "de": "Deutsch",
+      "fr": "Français",
+      "es": "Español",
+      "pt": "Português",
+      "pt-br": "Português",
+      "tr": "Türk",
+      "it": "Italiano",
+      "ja": "日本語",
+      "jp": "日本語",
+      "zh-cn": "中文 - 中国",
+      "zhhans": "中文 - 中国",
+      "scn": "中文 - 中国",
+      "tcn": "中文 - 香港",
+      "zh-hans": "中文 - 中国",
+      "zh-hk": "中文 - 香港",
+      "zh-hant": "中文-繁體中文",
+      "zhhant": "中文-繁體中文",
+      "zh-mo": "中文 - 香港",
+      "zh-sg": "中文 - 香港",
+      "zh-tw": "中文-繁體中文",
+      "ko": "한국어",
+      "vi": "Tiếng Việt",
+      "th": "ภาษาไทย",
+      "po": "Polskie",
+      "nonUS": "Non-US English",
+      "hubUS": "Global"
+    },
+    "copyright": {
+      "text": "UL 和UL 标志是UL LLC的注册商标 © 2020 保留所有权。"
+    },
+    "urls_footer": {
+      "online_policies": {
+        "text": "线上政策",
+        "url_faas": "https://www.ul.com/zh-hans/customer-resources/online-policies"
+      },
+      "about_cookies": {
+        "text": "关于Cookies",
+        "url_faas": "https://www.ul.com/zh-hans/customer-resources/online-policies/about-cookies"
+      },
+      "data_subject_access": {
+        "text": "数据主体访问请求接入门户",
+        "url_faas": "https://app-de.onetrust.com/app/#/webform/e348820f-6ffc-48f0-aa9f-2d80a79304fc"
+      },
+      "impressum": {
+        "text": "Impressum",
+        "url_impressum": "https://www.ul.com/impressum"
+      },
+      "marketSurveillance": {
+        "url_marketSurveillance": "https://market-surveillance.ul.com/zh-tw/market-surveillance-report-form-tw/",
+        "text": "报告问题"
+      }
+    },
+    "social": {
+      "facebook": "https://www.facebook.com/ULDialogue",
+      "linkedin": "https://www.linkedin.com/company/ul-",
+      "twitter": "https://www.twitter.com/uldialogue",
+      "youtube": "https://www.youtube.com/user/ULdialogue",
+      "instagram": "https://www.instagram.com/uldialogue/"
+    }
+  },
+  "tcn": {
+    "text": {
+      "exploreLong": "探索 ul.com",
+      "exploreShort": "探索 UL",
+      "next": "繼續",
+      "cancel": "取消"
+    },
+    "urls": {
+      "careers": {
+        "text": "工作機會",
+        "url": "https://www.ul.com/careers"
+      },
+      "contact": {
+        "text": "聯絡我們",
+        "url": "https://www.ul.com/contact-us"
+      }
+    },
+    "features": [
+      {
+        "imgUrl": "img/feature1-1.jpg",
+        "title": "服務",
+        "copy": "我們專為業務需求和行業問題 量身打造服務，並提供適合最複雜問題的策略解決方案，以及可解決特定問題的服務，協助您從容應對挑戰。",
+        "cta": {
+          "text": "概覽",
+          "url": "https://www.ul.com/industries"
+        }
+      },
+      {
+        "imgUrl": "img/feature2-1.jpg",
+        "title": "深入分析",
+        "copy": "利用 UL 的產業領先研究和可行的深入分析，在日益複雜的世界中針對您的業務找到正確的應對方式。",
+        "cta": {
+          "text": "檢視所有深入分析",
+          "url": "https://www.ul.com/insights"
+        }
+      },
+      {
+        "imgUrl": "img/feature3-1.jpg",
+        "title": "新聞",
+        "copy": "瀏覽我們的新聞稿和新聞更新。深入探索詳細的新聞資料，瞭解有關我們工作的資訊。此處彙整了所有 UL 具有新聞價值的資訊。",
+        "cta": {
+          "text": "檢視 UL 新聞",
+          "url": "https://www.ul.com/news"
+        }
+      }
+    ],
+    "aboutUL": {
+      "title": "關於 UL",
+      "copy": "我們藉由增強信任來協助人們實現可能的目標。企業、產業、政府、監管機構和公眾信任我們，使他們能做出更明智的決策。",
+      "links": [
+        {
+          "text": "UL.com",
+          "url": "https://www.ul.com/"
+        },
+        {
+          "text": "我們的使命",
+          "url": "https://www.ul.com/about/mission"
+        },
+        {
+          "text": "全球分支機搆",
+          "url": "https://www.ul.com/about/locations"
+        }
+      ]
+    },
+    "mobileLinks": [
+      {
+        "text": "UL.com",
+        "url": "https://www.ul.com/"
+      },
+      {
+        "text": "我們的使命",
+        "url": "https://www.ul.com/about/mission"
+      },
+      {
+        "text": "全球分支機搆",
+        "url": "https://www.ul.com/about/locations"
+      },
+      {
+        "text": "服務",
+        "url": "https://www.ul.com/industries"
+      },
+      {
+        "text": "深入分析",
+        "url": "https://.ul.com/insights"
+      },
+      {
+        "text": "新聞",
+        "url": "https://www.ul.com/news"
+      }
+    ],
+    "airlockText": "本網站不提供 {preferred}，將使用 {current}",
+    "airlockPreferences": "設置首選語言",
+    "preferredLanguageModal": {
+      "title": "語言偏好設定",
+      "subtitle": "選擇您偏好的全球語言"
+    },
+    "languageNames": {
+      "en": "English",
+"usen": "US English",
+      "de": "Deutsch",
+      "fr": "Français",
+      "es": "Español",
+      "pt": "Português",
+      "pt-br": "Português",
+      "tr": "Türk",
+      "it": "Italiano",
+      "ja": "日本語",
+      "jp": "日本語",
+      "zh-cn": "中文 - 中国",
+      "zhhans": "中文 - 中国",
+      "scn": "中文 - 中国",
+      "tcn": "中文 - 香港",
+      "zh-hans": "中文 - 中国",
+      "zh-hk": "中文 - 香港",
+      "zh-hant": "中文-繁體中文",
+      "zhhant": "中文-繁體中文",
+      "zh-mo": "中文 - 香港",
+      "zh-sg": "中文 - 香港",
+      "zh-tw": "中文-繁體中文",
+      "ko": "한국어",
+      "vi": "Tiếng Việt",
+      "th": "ภาษาไทย",
+      "po": "Polskie",
+      "nonUS": "Non-US English",
+      "hubUS": "Global"
+    },
+    "copyright": {
+      "text": "UL and the UL logo are trademarks of UL LLC ©2020. All rights reserved."
+    },
+    "urls_footer": {
+      "online_policies": {
+        "text": "線上政策",
+        "url_faas": "https://www.ul.com/zh-hant/customer-resources/online-policies"
+      },
+      "about_cookies": {
+        "text": "關於Cookies",
+        "url_faas": "https://www.ul.com/zh-hant/customer-resources/online-policies/about-cookies"
+      },
+      "data_subject_access": {
+        "text": "資料主體存取要求入口網站",
+        "url_faas": "https://app-de.onetrust.com/app/#/webform/e348820f-6ffc-48f0-aa9f-2d80a79304fc"
+      },
+      "impressum": {
+        "text": "Impressum",
+        "url_impressum": "https://www.ul.com/impressum"
+      },
+      "marketSurveillance": {
+        "url_marketSurveillance": "https://market-surveillance.ul.com/zh-tw/market-surveillance-report-form-tw/",
+        "text": "報告問題"
+      }
+    },
+    "social": {
+      "facebook": "https://www.facebook.com/ULDialogue",
+      "linkedin": "https://www.linkedin.com/company/ul-",
+      "twitter": "https://www.twitter.com/uldialogue",
+      "youtube": "https://www.youtube.com/user/ULdialogue",
+      "instagram": "https://www.instagram.com/uldialogue/"
+    }
+  },
+  "ko": {
+    "text": {
+      "exploreLong": "ul.com 모두 둘러보기",
+      "exploreShort": "UL 둘러보기",
+      "next": "계속",
+      "cancel": "취소"
+    },
+    "urls": {
+      "careers": {
+        "text": "채용",
+        "url": "https://www.ul.com/careers"
+      },
+      "contact": {
+        "text": "연락처",
+        "url": "https://www.ul.com/contact-us"
+      }
+    },
+    "features": [
+      {
+        "imgUrl": "img/feature1-1.jpg",
+        "title": "제안",
+        "copy": "UL은 비즈니스 요구 사항 및 산업 문제에 맞춘 제품, 가장 복잡한 문제에 대한 전략적 솔루션 및 특정 문제를 해결하는 서비스를 통해 귀사의 과제를 해결할 수 있도록 지원합니다.",
+        "cta": {
+          "text": "개요",
+          "url": "https://www.ul.com/industries"
+        }
+      },
+      {
+        "imgUrl": "img/feature2-1.jpg",
+        "title": "통찰력",
+        "copy": "업계를 선도하는 UL의 연구 및 실행 가능한 통찰력으로 점점 더 복잡해지는 세계에서 비즈니스를 탐색할 수 있습니다.",
+        "cta": {
+          "text": "모든 통찰력 보기",
+          "url": "https://www.ul.com/insights"
+        }
+      },
+      {
+        "imgUrl": "img/feature3-1.jpg",
+        "title": "뉴스",
+        "copy": "UL의 보도 자료와 뉴스 업데이트를 살펴보세요. 작업에 대한 정보를 얻으려면 자세한 보도 키트를 살펴보세요. UL에 대한 뉴스라면 여기에서 볼 수 있습니다.",
+        "cta": {
+          "text": "UL 뉴스 보기",
+          "url": "https://www.ul.com/news"
+        }
+      }
+    ],
+    "aboutUL": {
+      "title": "UL 정보",
+      "copy": "UL은 신뢰를 강화함으로써 실현 가능한 일을 이룰 수 있도록 협력합니다. 기업, 산업, 정부, 규제 당국 및 공공 부문은 UL에 대한 신뢰를 바탕으로 현명한 결정을 내립니다.",
+      "links": [
+        {
+          "text": "UL.com",
+          "url": "https://www.ul.com/"
+        },
+        {
+          "text": "사명",
+          "url": "https://www.ul.com/about/mission"
+        },
+        {
+          "text": "전 세계 지사",
+          "url": "https://www.ul.com/about/locations"
+        }
+      ]
+    },
+    "mobileLinks": [
+      {
+        "text": "UL.com",
+        "url": "https://www.ul.com/"
+      },
+      {
+        "text": "사명",
+        "url": "https://www.ul.com/about/mission"
+      },
+      {
+        "text": "전 세계 지사",
+        "url": "https://www.ul.com/about/locations"
+      },
+      {
+        "text": "제안",
+        "url": "https://www.ul.com/industries"
+      },
+      {
+        "text": "통찰력",
+        "url": "https://www.ul.com/insights"
+      },
+      {
+        "text": "뉴스",
+        "url": "https://www.ul.com/news"
+      }
+    ],
+    "airlockText": "이 사이트는 {preferred}로 제공되지 않아 {current}로 표시되고 있습니다.",
+    "airlockPreferences": "선호 언어 설정",
+    "preferredLanguageModal": {
+      "title": "언어 설정",
+      "subtitle": "선호하시는 전체 언어를 선택해 주세요"
+    },
+    "languageNames": {
+      "en": "English",
+"usen": "US English",
+      "de": "Deutsch",
+      "fr": "Français",
+      "es": "Español",
+      "pt": "Português",
+      "pt-br": "Português",
+      "tr": "Türk",
+      "it": "Italiano",
+      "ja": "日本語",
+      "jp": "日本語",
+      "zh-cn": "中文 - 中国",
+      "zhhans": "中文 - 中国",
+      "scn": "中文 - 中国",
+      "tcn": "中文 - 香港",
+      "zh-hans": "中文 - 中国",
+      "zh-hk": "中文 - 香港",
+      "zh-hant": "中文-繁體中文",
+      "zhhant": "中文-繁體中文",
+      "zh-mo": "中文 - 香港",
+      "zh-sg": "中文 - 香港",
+      "zh-tw": "中文-繁體中文",
+      "ko": "한국어",
+      "vi": "Tiếng Việt",
+      "th": "ภาษาไทย",
+      "po": "Polskie",
+      "nonUS": "Non-US English",
+      "hubUS": "Global"
+    },
+    "copyright": {
+      "text": "UL 및 UL 로고는 UL LLC의 상표입니다. © $year 판권 소유."
+    },
+    "urls_footer": {
+      "online_policies": {
+        "text": "온라인 정책",
+        "url_faas": "https://www.ul.com/ko/customer-resources/online-policies"
+      },
+      "about_cookies": {
+        "text": "쿠키 정보",
+        "url_faas": "https://www.ul.com/ko/customer-resources/online-policies/about-cookies"
+      },
+      "data_subject_access": {
+        "text": "데이터 제목 액세스 요청 포털",
+        "url_faas": "https://app-de.onetrust.com/app/#/webform/e348820f-6ffc-48f0-aa9f-2d80a79304fc"
+      },
+      "impressum": {
+        "text": "Impressum",
+        "url_impressum": "https://www.ul.com/impressum"
+      }
+    },
+    "social": {
+      "facebook": "https://www.facebook.com/ULDialogue",
+      "linkedin": "https://www.linkedin.com/company/ul-",
+      "twitter": "https://www.twitter.com/uldialogue",
+      "youtube": "https://www.youtube.com/user/ULdialogue",
+      "instagram": "https://www.instagram.com/uldialogue/"
+    }
+  },
+  "vi": {
+    "text": {
+      "exploreLong": "Khám phá toàn bộ ul.com",
+      "exploreShort": "Khám phá UL",
+      "next": "Tiếp tục",
+      "cancel": "Hủy"
+    },
+    "urls": {
+      "careers": {
+        "text": "Nghề nghiệp",
+        "url": "https://www.ul.com/careers"
+      },
+      "contact": {
+        "text": "Liên hệ",
+        "url": "https://www.ul.com/contact-us"
+      }
+    },
+    "features": [
+      {
+        "imgUrl": "img/feature1-1.jpg",
+        "title": "Dịch vụ",
+        "copy": "Chúng tôi giúp bạn giải quyết thách thức của mình bằng những dịch vụ được điều chỉnh phù hợp với nhu cầu kinh doanh và các vấn đề của ngành, các giải pháp chiến lược cho những vấn đề phức tạp nhất, cùng các dịch vụ để xử lý các mối quan ngại cụ thể.",
+        "cta": {
+          "text": "Tổng quan",
+          "url": "https://www.ul.com/industries"
+        }
+      },
+      {
+        "imgUrl": "img/feature2-1.jpg",
+        "title": "Thông tin chuyên sâu",
+        "copy": "Dẫn dắt doanh nghiệp của bạn trong một thế giới ngày càng phức tạp với nghiên cứu hàng đầu trong ngành và những thông tin chuyên sâu mang tính khả thi từ UL.",
+        "cta": {
+          "text": "Xem toàn bộ thông tin chuyên sâu",
+          "url": "https://www.ul.com/insights"
+        }
+      },
+      {
+        "imgUrl": "img/feature3-1.jpg",
+        "title": "Tin tức",
+        "copy": "Khám phá các thông cáo báo chí và cập nhật tin tức của chúng tôi. Tìm hiểu bộ tư liệu báo chí để biết thông tin chi tiết về công việc của chúng tôi. Nếu đó là UL và là tin tức đáng xem, tất cả đều có ở đây.",
+        "cta": {
+          "text": "Xem tin tức UL",
+          "url": "https://www.ul.com/news"
+        }
+      }
+    ],
+    "aboutUL": {
+      "title": "Giới thiệu về UL",
+      "copy": "Chúng tôi giúp mọi người đạt được những gì có thể bằng cách đặt niềm tin. Các doanh nghiệp, các ngành, chính phủ, cơ quan quản lý và công chúng đặt niềm tin vào chúng tôi để họ có thể đưa ra quyết định thông minh hơn.",
+      "links": [
+        {
+          "text": "UL.com",
+          "url": "https://www.ul.com/"
+        },
+        {
+          "text": "Sứ mệnh của chúng tôi",
+          "url": "https://www.ul.com/about/mission"
+        },
+        {
+          "text": "Địa điểm trên toàn thế giới",
+          "url": "https://www.ul.com/about/locations"
+        }
+      ]
+    },
+    "mobileLinks": [
+      {
+        "text": "UL.com",
+        "url": "https://www.ul.com/"
+      },
+      {
+        "text": "Sứ mệnh của chúng tôi",
+        "url": "https://www.ul.com/about/mission"
+      },
+      {
+        "text": "Các địa điểm trên toàn thế giới",
+        "url": "https://www.ul.com/about/locations"
+      },
+      {
+        "text": "Dịch vụ",
+        "url": "https://www.ul.com/industries"
+      },
+      {
+        "text": "Thông tin chuyên sâu",
+        "url": "https://www.ul.com/insights"
+      },
+      {
+        "text": "Tin tức",
+        "url": "https://www.ul.com/news"
+      }
+    ],
+    "airlockText": "Trang này không có ở {preferred} và sẽ được hiển thị bằng {current}.",
+    "airlockPreferences": "Đặt ngôn ngữ ưu tiên",
+    "preferredLanguageModal": {
+      "title": "Tùy chọn ngôn ngữ",
+      "subtitle": "Chọn ngôn ngữ toàn cầu ưu tiên của bạn"
+    },
+    "languageNames": {
+      "en": "English",
+"usen": "US English",
+      "de": "Deutsch",
+      "fr": "Français",
+      "es": "Español",
+      "pt": "Português",
+      "pt-br": "Português",
+      "tr": "Türk",
+      "it": "Italiano",
+      "ja": "日本語",
+      "jp": "日本語",
+      "zh-cn": "中文 - 中国",
+      "zhhans": "中文 - 中国",
+      "scn": "中文 - 中国",
+      "tcn": "中文 - 香港",
+      "zh-hans": "中文 - 中国",
+      "zh-hk": "中文 - 香港",
+      "zh-hant": "中文-繁體中文",
+      "zhhant": "中文-繁體中文",
+      "zh-mo": "中文 - 香港",
+      "zh-sg": "中文 - 香港",
+      "zh-tw": "中文-繁體中文",
+      "ko": "한국어",
+      "vi": "Tiếng Việt",
+      "th": "ภาษาไทย",
+      "po": "Polskie",
+      "nonUS": "Non-US English",
+      "hubUS": "Global"
+    },
+    "copyright": {
+      "text": "UL và logo UL là thương hiệu của UL LLC © $year Đã đăng ký Bản quyền."
+    },
+    "urls_footer": {
+      "online_policies": {
+        "text": "Chính sách quyền riêng tư",
+        "url_faas": "https://www.ul.com/customer-resources/online-policies/"
+      },
+      "about_cookies": {
+        "text": "Giới thiệu về Cookie",
+        "url_faas": "https://www.ul.com/customer-resources/online-policies/about-cookies/"
+      },
+      "data_subject_access": {
+        "text": "Cổng thông tin yêu cầu truy cập đối tượng dữ liệu",
+        "url_faas": "https://app-de.onetrust.com/app/#/webform/e348820f-6ffc-48f0-aa9f-2d80a79304fc"
+      },
+      "impressum": {
+        "text": "Impressum",
+        "url_impressum": "https://www.ul.com/impressum"
+      }
+    },
+    "social": {
+      "facebook": "https://www.facebook.com/ULDialogue",
+      "linkedin": "https://www.linkedin.com/company/ul-",
+      "twitter": "https://www.twitter.com/uldialogue",
+      "youtube": "https://www.youtube.com/user/ULdialogue",
+      "instagram": "https://www.instagram.com/uldialogue/"
+    }
+  },
+  "th": {
+    "text": {
+      "exploreLong": "สำรวจ UL.COM ทั้งหมด",
+      "exploreShort": "สำรวจ UL",
+      "next": "ดำเนินการต่อ",
+      "cancel": "ยกเลิก"
+    },
+    "urls": {
+      "careers": {
+        "text": "ร่วมงานกับเรา",
+        "url": "https://www.ul.com/careers"
+      },
+      "contact": {
+        "text": "ติดต่อเรา",
+        "url": "https://www.ul.com/contact-us"
+      }
+    },
+    "features": [
+      {
+        "imgUrl": "img/feature1-1.jpg",
+        "title": "การมอบข้อเสนอ",
+        "copy": "เราช่วยเหลือคุณจัดการกับความท้าทายต่างๆ ด้วยการมอบข้อเสนอที่ปรับแต่งเพื่อตอบสนองความต้องการของธุรกิจและประเด็นทางอุตสาหกรรม แนวทางแก้ไขปัญหาเชิงกลยุทธ์สำหรับปัญหาที่ซับซ้อนที่สุด และบริการเพื่อจัดการกับข้อกังวลที่เฉพาะเจาะจง",
+        "cta": {
+          "text": "ภาพรวม",
+          "url": "https://www.ul.com/industries"
+        }
+      },
+      {
+        "imgUrl": "img/feature2-1.jpg",
+        "title": "ข้อมูลเชิงลึก",
+        "copy": "นำทางธุรกิจของคุณในโลกที่ซับซ้อนเพิ่มมากขึ้นเรื่อยๆ ด้วยการวิจัยระดับชั้นนำของอุตสาหกรรมและข้อมูลเชิงลึกที่นำไปดำเนินการต่อได้จาก UL",
+        "cta": {
+          "text": "ดูข้อมูลเชิงลึกทั้งหมด",
+          "url": "https://www.ul.com/insights"
+        }
+      },
+      {
+        "imgUrl": "img/feature3-1.jpg",
+        "title": "ข่าว",
+        "copy": "สำรวจการเผยแพร่ประชาสัมพันธ์และข่าวปัจจุบันของเรา ค้นหาชุดข่าวที่ละเอียดเกี่ยวกับงานของเรา ข่าวสารจาก UL และประเด็นข่าวที่น่าสนใจพร้อมให้คุณเยี่ยมชมที่นี",
+        "cta": {
+          "text": "ดูข่าวของ UL",
+          "url": "https://www.ul.com/news"
+        }
+      }
+    ],
+    "aboutUL": {
+      "title": "เกี่ยวกับ UL",
+      "copy": "เราช่วยเหลือให้ผู้คนบรรลุผลสำเร็จในเป้าหมายด้วยการสนับสนุนด้านความเชื่อถือได้ ธุรกิจ อุตสาหกรรม หน่วยงานของรัฐ หน่วยงานกำกับดูแลกฎระเบียบ และภาคสาธารณะให้ความเชื่อถือเราเพื่อให้พวกเขาตัดสินใจได้อย่างชาญฉลาดขึ้นยี",
+      "links": [
+        {
+          "text": "UL.com",
+          "url": "https://www.ul.com/"
+        },
+        {
+          "text": "พันธกิจของเรา",
+          "url": "https://www.ul.com/about/mission"
+        },
+        {
+          "text": "ตำแหน่งที่ตั้งทั่วโลก",
+          "url": "https://www.ul.com/about/locations"
+        }
+      ]
+    },
+    "mobileLinks": [
+      {
+        "text": "UL.com",
+        "url": "https://www.ul.com/"
+      },
+      {
+        "text": "พันธกิจของเรา",
+        "url": "https://www.ul.com/about/mission"
+      },
+      {
+        "text": "ตำแหน่งที่ตั้งทั่วโลก",
+        "url": "https://www.ul.com/about/locations"
+      },
+      {
+        "text": "การมอบข้อเสนอ",
+        "url": "https://www.ul.com/industries"
+      },
+      {
+        "text": "ข้อมูลเชิงลึก",
+        "url": "https://www.ul.com/insights"
+      },
+      {
+        "text": "ข่าว",
+        "url": "https://www.ul.com/news"
+      }
+    ],
+    "airlockText": "ว็บไซต์นี้ยังไม่ให้บริการเป็น{preferred} และจะแสดงเนื้อหาเป็น{current}",
+    "airlockPreferences": "ตั้งภาษาที่ต้องการ",
+    "preferredLanguageModal": {
+      "title": "ภาษาที่ต้องการ",
+      "subtitle": "เลือกภาษาสากลที่ต้องการ"
+    },
+    "languageNames": {
+      "en": "English",
+"usen": "US English",
+      "de": "Deutsch",
+      "fr": "Français",
+      "es": "Español",
+      "pt": "Português",
+      "pt-br": "Português",
+      "tr": "Türk",
+      "it": "Italiano",
+      "ja": "日本語",
+      "jp": "日本語",
+      "zh-cn": "中文 - 中国",
+      "zhhans": "中文 - 中国",
+      "scn": "中文 - 中国",
+      "tcn": "中文 - 香港",
+      "zh-hans": "中文 - 中国",
+      "zh-hk": "中文 - 香港",
+      "zh-hant": "中文-繁體中文",
+      "zhhant": "中文-繁體中文",
+      "zh-mo": "中文 - 香港",
+      "zh-sg": "中文 - 香港",
+      "zh-tw": "中文-繁體中文",
+      "ko": "한국어",
+      "vi": "Tiếng Việt",
+      "th": "ภาษาไทย",
+      "po": "Polskie",
+      "nonUS": "Non-US English",
+      "hubUS": "Global"
+    },
+    "copyright": {
+      "text": "UL และโลโก้ UL เป็นเครื่องหมายการค้าของ UL LLC © $year สงวนลิขสิทธิ์."
+    },
+    "urls_footer": {
+      "online_policies": {
+        "text": "นโยบายความเป็นส่วนตัว",
+        "url_faas": "https://www.ul.com/customer-resources/online-policies/"
+      },
+      "about_cookies": {
+        "text": "เกี่ยวกับคุกกี้",
+        "url_faas": "https://www.ul.com/customer-resources/online-policies/about-cookies/"
+      },
+      "data_subject_access": {
+        "text": "พอร์ทัลส่งคำขอเพื่อเข้าถึงข้อมูลหัวเรื่อง",
+        "url_faas": "https://app-de.onetrust.com/app/#/webform/e348820f-6ffc-48f0-aa9f-2d80a79304fc"
+      },
+      "impressum": {
+        "text": "Impressum",
+        "url_impressum": "https://www.ul.com/impressum"
+      }
+    },
+    "social": {
+      "facebook": "https://www.facebook.com/ULDialogue",
+      "linkedin": "https://www.linkedin.com/company/ul-",
+      "twitter": "https://www.twitter.com/uldialogue",
+      "youtube": "https://www.youtube.com/user/ULdialogue",
+      "instagram": "https://www.instagram.com/uldialogue/"
+    }
+  },
+  "zhhans": {
+    "text": {
+      "exploreLong": "浏览所有 ul.com 网站",
+      "exploreShort": "探索 UL",
+      "next": "继续",
+      "cancel": "取消"
+    },
+    "urls": {
+      "careers": {
+        "text": "工作机会",
+        "url": "https://www.ul.com/careers"
+      },
+      "contact": {
+        "text": "连络人",
+        "url": "https://www.ul.com/contact-us"
+      }
+    },
+    "features": [
+      {
+        "imgUrl": "img/feature1-1.jpg",
+        "title": "服务",
+        "copy": "我们专为业务需求和行业问题 量身打造服务，并提供适合最复杂问题的战略解决方案，以及可解决特定问题的服务，帮助您从容应对挑战。",
+        "cta": {
+          "text": "概况",
+          "url": "https://www.ul.com/industries"
+        }
+      },
+      {
+        "imgUrl": "img/feature2-1.jpg",
+        "title": "洞察",
+        "copy": "利用 UL 的业界领先研究和可行性深入分析，在日益复杂的世界中针对您的业务找到正确的应对方式。",
+        "cta": {
+          "text": "查看所有洞察",
+          "url": "https://www.ul.com/insights"
+        }
+      },
+      {
+        "imgUrl": "img/feature3-1.jpg",
+        "title": "新闻",
+        "copy": "浏览我们的新闻稿和新闻更新。深入探索详细的新闻资料，了解有关 UL 工作的信息。此处汇集了所有 UL 具有新闻价值的信息。",
+        "cta": {
+          "text": "UL 服务",
+          "url": "https://www.ul.com/news"
+        }
+      }
+    ],
+    "aboutUL": {
+      "title": "关于 UL",
+      "copy": "UL 通过赋予信任来帮助人们实现可能的目标。企业、行业、政府、监管机构和公众信任 UL，使他们能做出更明智的决策。",
+      "links": [
+        {
+          "text": "UL.com",
+          "url": "https://www.ul.com/"
+        },
+        {
+          "text": "我们的使命",
+          "url": "https://www.ul.com/about/mission"
+        },
+        {
+          "text": "全球分支机构",
+          "url": "https://www.ul.com/about/locations"
+        }
+      ]
+    },
+    "mobileLinks": [
+      {
+        "text": "UL.com",
+        "url": "https://www.ul.com/"
+      },
+      {
+        "text": "我们的使命",
+        "url": "https://www.ul.com/about/mission"
+      },
+      {
+        "text": "全球分支机构",
+        "url": "https://www.ul.com/about/locations"
+      },
+      {
+        "text": "服务",
+        "url": "https://www.ul.com/industries"
+      },
+      {
+        "text": "洞察",
+        "url": "https://www.ul.com/insights"
+      },
+      {
+        "text": "新闻",
+        "url": "https://www.ul.com/news"
+      }
+    ],
+    "airlockText": "本网站不提供{preferred}，将使用{current}",
+    "airlockPreferences": "设置首选语言",
+    "preferredLanguageModal": {
+      "title": "语言偏好设置",
+      "subtitle": "选择您的首选全球语言"
+    },
+    "languageNames": {
+      "en": "English",
+"usen": "US English",
+      "de": "Deutsch",
+      "fr": "Français",
+      "es": "Español",
+      "pt": "Português",
+      "pt-br": "Português",
+      "tr": "Türk",
+      "it": "Italiano",
+      "ja": "日本語",
+      "jp": "日本語",
+      "zh-cn": "中文 - 中国",
+      "zhhans": "中文 - 中国",
+      "scn": "中文 - 中国",
+      "tcn": "中文 - 香港",
+      "zh-hans": "中文 - 中国",
+      "zh-hk": "中文 - 香港",
+      "zh-hant": "中文-繁體中文",
+      "zhhant": "中文-繁體中文",
+      "zh-mo": "中文 - 香港",
+      "zh-sg": "中文 - 香港",
+      "zh-tw": "中文-繁體中文",
+      "ko": "한국어",
+      "vi": "Tiếng Việt",
+      "th": "ภาษาไทย",
+      "po": "Polskie",
+      "nonUS": "Non-US English",
+      "hubUS": "Global"
+    },
+    "copyright": {
+      "text": "UL 和UL 标志是UL LLC的注册商标 © 2020 保留所有权。"
+    },
+    "urls_footer": {
+      "online_policies": {
+        "text": "线上政策",
+        "url_faas": "https://www.ul.com/zh-hans/customer-resources/online-policies"
+      },
+      "about_cookies": {
+        "text": "关于Cookies",
+        "url_faas": "https://www.ul.com/zh-hans/customer-resources/online-policies/about-cookies"
+      },
+      "data_subject_access": {
+        "text": "数据主体访问请求接入门户",
+        "url_faas": "https://app-de.onetrust.com/app/#/webform/e348820f-6ffc-48f0-aa9f-2d80a79304fc"
+      },
+      "impressum": {
+        "text": "Impressum",
+        "url_impressum": "https://www.ul.com/impressum"
+      },
+      "marketSurveillance": {
+        "url_marketSurveillance": "https://market-surveillance.ul.com/zh-tw/market-surveillance-report-form-tw/",
+        "text": "报告问题"
+      }
+    },
+    "social": {
+      "facebook": "https://www.facebook.com/ULDialogue",
+      "linkedin": "https://www.linkedin.com/company/ul-",
+      "twitter": "https://www.twitter.com/uldialogue",
+      "youtube": "https://www.youtube.com/user/ULdialogue",
+      "instagram": "https://www.instagram.com/uldialogue/"
+    }
+  },
+  "zh-hans": {
+    "text": {
+      "exploreLong": "浏览所有 ul.com 网站",
+      "exploreShort": "探索 UL",
+      "next": "继续",
+      "cancel": "取消"
+    },
+    "urls": {
+      "careers": {
+        "text": "工作机会",
+        "url": "https://www.ul.com/careers"
+      },
+      "contact": {
+        "text": "连络人",
+        "url": "https://www.ul.com/contact-us"
+      }
+    },
+    "features": [
+      {
+        "imgUrl": "img/feature1-1.jpg",
+        "title": "服务",
+        "copy": "我们专为业务需求和行业问题 量身打造服务，并提供适合最复杂问题的战略解决方案，以及可解决特定问题的服务，帮助您从容应对挑战。",
+        "cta": {
+          "text": "概况",
+          "url": "https://www.ul.com/industries"
+        }
+      },
+      {
+        "imgUrl": "img/feature2-1.jpg",
+        "title": "洞察",
+        "copy": "利用 UL 的业界领先研究和可行性深入分析，在日益复杂的世界中针对您的业务找到正确的应对方式。",
+        "cta": {
+          "text": "查看所有洞察",
+          "url": "https://www.ul.com/insights"
+        }
+      },
+      {
+        "imgUrl": "img/feature3-1.jpg",
+        "title": "新闻",
+        "copy": "浏览我们的新闻稿和新闻更新。深入探索详细的新闻资料，了解有关 UL 工作的信息。此处汇集了所有 UL 具有新闻价值的信息。",
+        "cta": {
+          "text": "UL 服务",
+          "url": "https://www.ul.com/news"
+        }
+      }
+    ],
+    "aboutUL": {
+      "title": "关于 UL",
+      "copy": "UL 通过赋予信任来帮助人们实现可能的目标。企业、行业、政府、监管机构和公众信任 UL，使他们能做出更明智的决策。",
+      "links": [
+        {
+          "text": "UL.com",
+          "url": "https://www.ul.com/"
+        },
+        {
+          "text": "我们的使命",
+          "url": "https://www.ul.com/about/mission"
+        },
+        {
+          "text": "全球分支机构",
+          "url": "https://www.ul.com/about/locations"
+        }
+      ]
+    },
+    "mobileLinks": [
+      {
+        "text": "UL.com",
+        "url": "https://www.ul.com/"
+      },
+      {
+        "text": "我们的使命",
+        "url": "https://www.ul.com/about/mission"
+      },
+      {
+        "text": "全球分支机构",
+        "url": "https://www.ul.com/about/locations"
+      },
+      {
+        "text": "服务",
+        "url": "https://www.ul.com/industries"
+      },
+      {
+        "text": "洞察",
+        "url": "https://www.ul.com/insights"
+      },
+      {
+        "text": "新闻",
+        "url": "https://www.ul.com/news"
+      }
+    ],
+    "airlockText": "本网站不提供{preferred}，将使用{current}",
+    "airlockPreferences": "设置首选语言",
+    "preferredLanguageModal": {
+      "title": "语言偏好设置",
+      "subtitle": "选择您的首选全球语言"
+    },
+    "languageNames": {
+      "en": "English",
+"usen": "US English",
+      "de": "Deutsch",
+      "fr": "Français",
+      "es": "Español",
+      "pt": "Português",
+      "pt-br": "Português",
+      "tr": "Türk",
+      "it": "Italiano",
+      "ja": "日本語",
+      "jp": "日本語",
+      "zh-cn": "中文 - 中国",
+      "zhhans": "中文 - 中国",
+      "scn": "中文 - 中国",
+      "tcn": "中文 - 香港",
+      "zh-hans": "中文 - 中国",
+      "zh-hk": "中文 - 香港",
+      "zh-hant": "中文-繁體中文",
+      "zhhant": "中文-繁體中文",
+      "zh-mo": "中文 - 香港",
+      "zh-sg": "中文 - 香港",
+      "zh-tw": "中文-繁體中文",
+      "ko": "한국어",
+      "vi": "Tiếng Việt",
+      "th": "ภาษาไทย",
+      "po": "Polskie",
+      "nonUS": "Non-US English",
+      "hubUS": "Global"
+    },
+    "copyright": {
+      "text": "UL 和UL 标志是UL LLC的注册商标 © 2020 保留所有权。"
+    },
+    "urls_footer": {
+      "online_policies": {
+        "text": "线上政策",
+        "url_faas": "https://www.ul.com/zh-hans/customer-resources/online-policies"
+      },
+      "about_cookies": {
+        "text": "关于Cookies",
+        "url_faas": "https://www.ul.com/zh-hans/customer-resources/online-policies/about-cookies"
+      },
+      "data_subject_access": {
+        "text": "数据主体访问请求接入门户",
+        "url_faas": "https://app-de.onetrust.com/app/#/webform/e348820f-6ffc-48f0-aa9f-2d80a79304fc"
+      },
+      "impressum": {
+        "text": "Impressum",
+        "url_impressum": "https://www.ul.com/impressum"
+      },
+      "marketSurveillance": {
+        "url_marketSurveillance": "https://market-surveillance.ul.com/zh-tw/market-surveillance-report-form-tw/",
+        "text": "报告问题"
+      }
+    },
+    "social": {
+      "facebook": "https://www.facebook.com/ULDialogue",
+      "linkedin": "https://www.linkedin.com/company/ul-",
+      "twitter": "https://www.twitter.com/uldialogue",
+      "youtube": "https://www.youtube.com/user/ULdialogue",
+      "instagram": "https://www.instagram.com/uldialogue/"
+    }
+  },
+  "zhhant": {
+    "text": {
+      "exploreLong": "探索 ul.com",
+      "exploreShort": "探索 UL",
+      "next": "繼續",
+      "cancel": "取消"
+    },
+    "urls": {
+      "careers": {
+        "text": "工作機會",
+        "url": "https://www.ul.com/careers"
+      },
+      "contact": {
+        "text": "聯絡我們",
+        "url": "https://www.ul.com/contact-us"
+      }
+    },
+    "features": [
+      {
+        "imgUrl": "img/feature1-1.jpg",
+        "title": "服務",
+        "copy": "我們專為業務需求和行業問題 量身打造服務，並提供適合最複雜問題的策略解決方案，以及可解決特定問題的服務，協助您從容應對挑戰。",
+        "cta": {
+          "text": "概覽",
+          "url": "https://www.ul.com/industries"
+        }
+      },
+      {
+        "imgUrl": "img/feature2-1.jpg",
+        "title": "深入分析",
+        "copy": "利用 UL 的產業領先研究和可行的深入分析，在日益複雜的世界中針對您的業務找到正確的應對方式。",
+        "cta": {
+          "text": "檢視所有深入分析",
+          "url": "https://www.ul.com/insights"
+        }
+      },
+      {
+        "imgUrl": "img/feature3-1.jpg",
+        "title": "新聞",
+        "copy": "瀏覽我們的新聞稿和新聞更新。深入探索詳細的新聞資料，瞭解有關我們工作的資訊。此處彙整了所有 UL 具有新聞價值的資訊。",
+        "cta": {
+          "text": "檢視 UL 新聞",
+          "url": "https://www.ul.com/news"
+        }
+      }
+    ],
+    "aboutUL": {
+      "title": "關於 UL",
+      "copy": "我們藉由增強信任來協助人們實現可能的目標。企業、產業、政府、監管機構和公眾信任我們，使他們能做出更明智的決策。",
+      "links": [
+        {
+          "text": "UL.com",
+          "url": "https://www.ul.com/"
+        },
+        {
+          "text": "我們的使命",
+          "url": "https://www.ul.com/about/mission"
+        },
+        {
+          "text": "全球分支機搆",
+          "url": "https://www.ul.com/about/locations"
+        }
+      ]
+    },
+    "mobileLinks": [
+      {
+        "text": "UL.com",
+        "url": "https://www.ul.com/"
+      },
+      {
+        "text": "我們的使命",
+        "url": "https://www.ul.com/about/mission"
+      },
+      {
+        "text": "全球分支機搆",
+        "url": "https://www.ul.com/about/locations"
+      },
+      {
+        "text": "服務",
+        "url": "https://www.ul.com/industries"
+      },
+      {
+        "text": "深入分析",
+        "url": "https://.ul.com/insights"
+      },
+      {
+        "text": "新聞",
+        "url": "https://www.ul.com/news"
+      }
+    ],
+    "airlockText": "本網站不提供 {preferred}，將使用 {current}",
+    "airlockPreferences": "設置首選語言",
+    "preferredLanguageModal": {
+      "title": "語言偏好設定",
+      "subtitle": "選擇您偏好的全球語言"
+    },
+    "languageNames": {
+      "en": "English",
+      "usen": "US English",
+      "de": "Deutsch",
+      "fr": "Français",
+      "es": "Español",
+      "pt": "Português",
+      "pt-br": "Português",
+      "tr": "Türk",
+      "it": "Italiano",
+      "ja": "日本語",
+      "jp": "日本語",
+      "zh-cn": "中文 - 中国",
+      "zhhans": "中文 - 中国",
+      "scn": "中文 - 中国",
+      "tcn": "中文 - 香港",
+      "zh-hans": "中文 - 中国",
+      "zh-hk": "中文 - 香港",
+      "zh-hant": "中文-繁體中文",
+      "zhhant": "中文-繁體中文",
+      "zh-mo": "中文 - 香港",
+      "zh-sg": "中文 - 香港",
+      "zh-tw": "中文-繁體中文",
+      "ko": "한국어",
+      "vi": "Tiếng Việt",
+      "th": "ภาษาไทย",
+      "po": "Polskie",
+      "nonUS": "Non-US English",
+      "hubUS": "Global"
+    },
+    "copyright": {
+      "text": "UL 和UL 標誌是UL LLC的註冊商標 © 2021 保留所有權。"
+    },
+    "urls_footer": {
+      "online_policies": {
+        "text": "線上政策",
+        "url_faas": "https://www.ul.com/zh-hant/customer-resources/online-policies"
+      },
+      "about_cookies": {
+        "text": "關於Cookies",
+        "url_faas": "https://www.ul.com/zh-hant/customer-resources/online-policies/about-cookies"
+      },
+      "data_subject_access": {
+        "text": "資料主體存取要求入口網站",
+        "url_faas": "https://app-de.onetrust.com/app/#/webform/e348820f-6ffc-48f0-aa9f-2d80a79304fc"
+      },
+      "impressum": {
+        "text": "Impressum",
+        "url_impressum": "https://www.ul.com/impressum"
+      },
+      "marketSurveillance": {
+        "url_marketSurveillance": "https://market-surveillance.ul.com/zh-tw/market-surveillance-report-form-tw/",
+        "text": "報告問題"
+      }
+    },
+    "social": {
+      "facebook": "https://www.facebook.com/ULDialogue",
+      "linkedin": "https://www.linkedin.com/company/ul-",
+      "twitter": "https://www.twitter.com/uldialogue",
+      "youtube": "https://www.youtube.com/user/ULdialogue",
+      "instagram": "https://www.instagram.com/uldialogue/"
+    }
+  },
+  "zh-hant": {
+    "text": {
+      "exploreLong": "探索 ul.com",
+      "exploreShort": "探索 UL",
+      "next": "繼續",
+      "cancel": "取消"
+    },
+    "urls": {
+      "careers": {
+        "text": "工作機會",
+        "url": "https://www.ul.com/careers"
+      },
+      "contact": {
+        "text": "聯絡我們",
+        "url": "https://www.ul.com/contact-us"
+      }
+    },
+    "features": [
+      {
+        "imgUrl": "img/feature1-1.jpg",
+        "title": "服務",
+        "copy": "我們專為業務需求和行業問題 量身打造服務，並提供適合最複雜問題的策略解決方案，以及可解決特定問題的服務，協助您從容應對挑戰。",
+        "cta": {
+          "text": "概覽",
+          "url": "https://www.ul.com/industries"
+        }
+      },
+      {
+        "imgUrl": "img/feature2-1.jpg",
+        "title": "深入分析",
+        "copy": "利用 UL 的產業領先研究和可行的深入分析，在日益複雜的世界中針對您的業務找到正確的應對方式。",
+        "cta": {
+          "text": "檢視所有深入分析",
+          "url": "https://www.ul.com/insights"
+        }
+      },
+      {
+        "imgUrl": "img/feature3-1.jpg",
+        "title": "新聞",
+        "copy": "瀏覽我們的新聞稿和新聞更新。深入探索詳細的新聞資料，瞭解有關我們工作的資訊。此處彙整了所有 UL 具有新聞價值的資訊。",
+        "cta": {
+          "text": "檢視 UL 新聞",
+          "url": "https://www.ul.com/news"
+        }
+      }
+    ],
+    "aboutUL": {
+      "title": "關於 UL",
+      "copy": "我們藉由增強信任來協助人們實現可能的目標。企業、產業、政府、監管機構和公眾信任我們，使他們能做出更明智的決策。",
+      "links": [
+        {
+          "text": "UL.com",
+          "url": "https://www.ul.com/"
+        },
+        {
+          "text": "我們的使命",
+          "url": "https://www.ul.com/about/mission"
+        },
+        {
+          "text": "全球分支機搆",
+          "url": "https://www.ul.com/about/locations"
+        }
+      ]
+    },
+    "mobileLinks": [
+      {
+        "text": "UL.com",
+        "url": "https://www.ul.com/"
+      },
+      {
+        "text": "我們的使命",
+        "url": "https://www.ul.com/about/mission"
+      },
+      {
+        "text": "全球分支機搆",
+        "url": "https://www.ul.com/about/locations"
+      },
+      {
+        "text": "服務",
+        "url": "https://www.ul.com/industries"
+      },
+      {
+        "text": "深入分析",
+        "url": "https://.ul.com/insights"
+      },
+      {
+        "text": "新聞",
+        "url": "https://www.ul.com/news"
+      }
+    ],
+    "airlockText": "本網站不提供 {preferred}，將使用 {current}",
+    "airlockPreferences": "設置首選語言",
+    "preferredLanguageModal": {
+      "title": "語言偏好設定",
+      "subtitle": "選擇您偏好的全球語言"
+    },
+    "languageNames": {
+      "en": "English",
+      "usen": "US English",
+      "de": "Deutsch",
+      "fr": "Français",
+      "es": "Español",
+      "pt": "Português",
+      "pt-br": "Português",
+      "tr": "Türk",
+      "it": "Italiano",
+      "ja": "日本語",
+      "jp": "日本語",
+      "zh-cn": "中文 - 中国",
+      "zhhans": "中文 - 中国",
+      "scn": "中文 - 中国",
+      "tcn": "中文 - 香港",
+      "zh-hans": "中文 - 中国",
+      "zh-hk": "中文 - 香港",
+      "zh-hant": "中文-繁體中文",
+      "zhhant": "中文-繁體中文",
+      "zh-mo": "中文 - 香港",
+      "zh-sg": "中文 - 香港",
+      "zh-tw": "中文-繁體中文",
+      "ko": "한국어",
+      "vi": "Tiếng Việt",
+      "th": "ภาษาไทย",
+      "po": "Polskie",
+      "nonUS": "Non-US English",
+      "hubUS": "Global"
+    },
+    "copyright": {
+      "text": "UL 和UL 標誌是UL LLC的註冊商標 © 2021 保留所有權。"
+    },
+    "urls_footer": {
+      "online_policies": {
+        "text": "線上政策",
+        "url_faas": "https://www.ul.com/zh-hant/customer-resources/online-policies"
+      },
+      "about_cookies": {
+        "text": "關於Cookies",
+        "url_faas": "https://www.ul.com/zh-hant/customer-resources/online-policies/about-cookies"
+      },
+      "data_subject_access": {
+        "text": "資料主體存取要求入口網站",
+        "url_faas": "https://app-de.onetrust.com/app/#/webform/e348820f-6ffc-48f0-aa9f-2d80a79304fc"
+      },
+      "impressum": {
+        "text": "Impressum",
+        "url_impressum": "https://www.ul.com/impressum"
+      },
+      "marketSurveillance": {
+        "url_marketSurveillance": "https://market-surveillance.ul.com/zh-tw/market-surveillance-report-form-tw/",
+        "text": "報告問題"
+      }
+    },
+    "social": {
+      "facebook": "https://www.facebook.com/ULDialogue",
+      "linkedin": "https://www.linkedin.com/company/ul-",
+      "twitter": "https://www.twitter.com/uldialogue",
+      "youtube": "https://www.youtube.com/user/ULdialogue",
+      "instagram": "https://www.instagram.com/uldialogue/"
+    }
+  },
+  "zh-hk": {
+    "text": {
+      "exploreLong": "探索 ul.com",
+      "exploreShort": "探索 UL",
+      "next": "繼續",
+      "cancel": "取消"
+    },
+    "urls": {
+      "careers": {
+        "text": "工作機會",
+        "url": "https://www.ul.com/careers"
+      },
+      "contact": {
+        "text": "聯絡我們",
+        "url": "https://www.ul.com/contact-us"
+      }
+    },
+    "features": [
+      {
+        "imgUrl": "img/feature1-1.jpg",
+        "title": "服務",
+        "copy": "我們專為業務需求和行業問題 量身打造服務，並提供適合最複雜問題的策略解決方案，以及可解決特定問題的服務，協助您從容應對挑戰。",
+        "cta": {
+          "text": "概覽",
+          "url": "https://www.ul.com/industries"
+        }
+      },
+      {
+        "imgUrl": "img/feature2-1.jpg",
+        "title": "深入分析",
+        "copy": "利用 UL 的產業領先研究和可行的深入分析，在日益複雜的世界中針對您的業務找到正確的應對方式。",
+        "cta": {
+          "text": "檢視所有深入分析",
+          "url": "https://www.ul.com/insights"
+        }
+      },
+      {
+        "imgUrl": "img/feature3-1.jpg",
+        "title": "新聞",
+        "copy": "瀏覽我們的新聞稿和新聞更新。深入探索詳細的新聞資料，瞭解有關我們工作的資訊。此處彙整了所有 UL 具有新聞價值的資訊。",
+        "cta": {
+          "text": "檢視 UL 新聞",
+          "url": "https://www.ul.com/news"
+        }
+      }
+    ],
+    "aboutUL": {
+      "title": "關於 UL",
+      "copy": "我們藉由增強信任來協助人們實現可能的目標。企業、產業、政府、監管機構和公眾信任我們，使他們能做出更明智的決策。",
+      "links": [
+        {
+          "text": "UL.com",
+          "url": "https://www.ul.com/"
+        },
+        {
+          "text": "我們的使命",
+          "url": "https://www.ul.com/about/mission"
+        },
+        {
+          "text": "全球分支機搆",
+          "url": "https://www.ul.com/about/locations"
+        }
+      ]
+    },
+    "mobileLinks": [
+      {
+        "text": "UL.com",
+        "url": "https://www.ul.com/"
+      },
+      {
+        "text": "我們的使命",
+        "url": "https://www.ul.com/about/mission"
+      },
+      {
+        "text": "全球分支機搆",
+        "url": "https://www.ul.com/about/locations"
+      },
+      {
+        "text": "服務",
+        "url": "https://www.ul.com/industries"
+      },
+      {
+        "text": "深入分析",
+        "url": "https://.ul.com/insights"
+      },
+      {
+        "text": "新聞",
+        "url": "https://www.ul.com/news"
+      }
+    ],
+    "airlockText": "本網站不提供 {preferred}，將使用 {current}",
+    "airlockPreferences": "設置首選語言",
+    "preferredLanguageModal": {
+      "title": "語言偏好設定",
+      "subtitle": "選擇您偏好的全球語言"
+    },
+    "languageNames": {
+      "en": "English",
+      "usen": "US English",
+      "de": "Deutsch",
+      "fr": "Français",
+      "es": "Español",
+      "pt": "Português",
+      "pt-br": "Português",
+      "tr": "Türk",
+      "it": "Italiano",
+      "ja": "日本語",
+      "jp": "日本語",
+      "zh-cn": "中文 - 中国",
+      "zhhans": "中文 - 中国",
+      "scn": "中文 - 中国",
+      "tcn": "中文 - 香港",
+      "zh-hans": "中文 - 中国",
+      "zh-hk": "中文 - 香港",
+      "zh-hant": "中文-繁體中文",
+      "zhhant": "中文-繁體中文",
+      "zh-mo": "中文 - 香港",
+      "zh-sg": "中文 - 香港",
+      "zh-tw": "中文-繁體中文",
+      "ko": "한국어",
+      "vi": "Tiếng Việt",
+      "th": "ภาษาไทย",
+      "po": "Polskie",
+      "nonUS": "Non-US English",
+      "hubUS": "Global"
+    },
+    "copyright": {
+      "text": "UL 和UL 標誌是UL LLC的註冊商標 © 2021 保留所有權。"
+    },
+    "urls_footer": {
+      "online_policies": {
+        "text": "線上政策",
+        "url_faas": "https://www.ul.com/zh-hant/customer-resources/online-policies"
+      },
+      "about_cookies": {
+        "text": "關於Cookies",
+        "url_faas": "https://www.ul.com/zh-hant/customer-resources/online-policies/about-cookies"
+      },
+      "data_subject_access": {
+        "text": "資料主體存取要求入口網站",
+        "url_faas": "https://app-de.onetrust.com/app/#/webform/e348820f-6ffc-48f0-aa9f-2d80a79304fc"
+      },
+      "impressum": {
+        "text": "Impressum",
+        "url_impressum": "https://www.ul.com/impressum"
+      }
+    },
+    "social": {
+      "facebook": "https://www.facebook.com/ULDialogue",
+      "linkedin": "https://www.linkedin.com/company/ul-",
+      "twitter": "https://www.twitter.com/uldialogue",
+      "youtube": "https://www.youtube.com/user/ULdialogue",
+      "instagram": "https://www.instagram.com/uldialogue/"
+    }
+  },
+  "po": {
+    "text": {
+      "exploreLong": "Explore all of ul.com",
+      "exploreShort": "Explore UL",
+      "next": "Continue",
+      "cancel": "Cancel"
+    },
+    "urls": {
+      "careers": {
+        "text": "Careers",
+        "url": "https://www.ul.com/careers"
+      },
+      "contact": {
+        "text": "Contact",
+        "url": "https://www.ul.com/contact-us"
+      }
+    },
+    "features": [
+      {
+        "imgUrl": "img/feature1-1.jpg",
+        "title": "Offerings",
+        "copy": "We help you tackle your challenges with offerings tailored to business needs and industry issues, strategic solutions for the most complex problems, and services to address specific concerns.",
+        "cta": {
+          "text": "Overview",
+          "url": "https://www.ul.com/industries"
+        }
+      },
+      {
+        "imgUrl": "img/feature2-1.jpg",
+        "title": "Insights",
+        "copy": "Navigate your business in an increasingly complex world with industry leading research and actionable insights from UL.",
+        "cta": {
+          "text": "View all Insights",
+          "url": "https://www.ul.com/insights"
+        }
+      },
+      {
+        "imgUrl": "img/feature3-1.jpg",
+        "title": "News",
+        "copy": "Explore our press releases and news updates. Delve into detailed press kits for information on our work. If it’s UL and newsworthy, it’s here.",
+        "cta": {
+          "text": "Visit UL News",
+          "url": "https://www.ul.com/news"
+        }
+      }
+    ],
+    "aboutUL": {
+      "title": "About UL",
+      "copy": "We help people achieve what’s possible by empowering trust. Businesses, industries, governments, regulatory authorities and the public put their trust in us so they can make smarter decisions.",
+      "links": [
+        {
+          "text": "UL.com",
+          "url": "https://www.ul.com/"
+        },
+        {
+          "text": "Our Mission",
+          "url": "https://www.ul.com/about/mission"
+        },
+        {
+          "text": "Worldwide Locations",
+          "url": "https://www.ul.com/about/locations"
+        }
+      ]
+    },
+    "mobileLinks": [
+      {
+        "text": "UL.com",
+        "url": "https://www.ul.com/"
+      },
+      {
+        "text": "Our Mission",
+        "url": "https://www.ul.com/about/mission"
+      },
+      {
+        "text": "Worldwide Locations",
+        "url": "https://www.ul.com/about/locations"
+      },
+      {
+        "text": "Offerings",
+        "url": "https://www.ul.com/industries"
+      },
+      {
+        "text": "Insights",
+        "url": "https://www.ul.com/insights"
+      },
+      {
+        "text": "News",
+        "url": "https://www.ul.com/news"
+      }
+    ],
+    "airlockText": "The site is not available in {preferred} and is being presented in {current}",
+    "airlockPreferences": "Set Preferred Language",
+    "preferredLanguageModal": {
+      "title": "Preferred Language",
+      "subtitle": "Select your preferred global lan:uage."
+    },
+    "languageNames": {
+      "en": "English",
+"usen": "US English",
+      "de": "Deutsch",
+      "fr": "Français",
+      "es": "Español",
+      "pt": "Português",
+      "pt-br": "Português",
+      "tr": "Türk",
+      "it": "Italiano",
+      "ja": "日本語",
+      "jp": "日本語",
+      "zh-cn": "中文 - 中国",
+      "zhhans": "中文 - 中国",
+      "scn": "中文 - 中国",
+      "tcn": "中文 - 香港",
+      "zh-hans": "中文 - 中国",
+      "zh-hk": "中文 - 香港",
+      "zh-hant": "中文-繁體中文",
+      "zhhant": "中文-繁體中文",
+      "zh-mo": "中文 - 香港",
+      "zh-sg": "中文 - 香港",
+      "zh-tw": "中文-繁體中文",
+      "ko": "한국어",
+      "vi": "Tiếng Việt",
+      "th": "ภาษาไทย",
+      "po": "Polskie",
+      "nonUS": "Non-US English",
+      "hubUS": "Global"
+    },
+    "copyright": {
+      "text": "UL and the UL logo are trademarks of UL LLC © $year <span>All Rights Reserved.</span>"
+    },
+    "urls_footer": {
+      "online_policies": {
+        "text": "Online Policies",
+        "url_faas": "https://www.ul.com/customer-resources/online-policies/"
+      },
+      "about_cookies": {
+        "text": "About Cookies",
+        "url_faas": "https://www.ul.com/customer-resources/online-policies/about-cookies/"
+      },
+      "data_subject_access": {
+        "text": "Data Subject Access Request Portal",
+        "url_faas": "https://app-de.onetrust.com/app/#/webform/e348820f-6ffc-48f0-aa9f-2d80a79304fc"
+      },
+      "impressum": {
+        "text": "Impressum",
+        "url_impressum": "https://www.ul.com/impressum"
+      }
+    },
+    "social": {
+      "facebook": "https://www.facebook.com/ULDialogue",
+      "linkedin": "https://www.linkedin.com/company/ul-",
+      "twitter": "https://www.twitter.com/uldialogue",
+      "youtube": "https://www.youtube.com/user/ULdialogue",
+      "instagram": "https://www.instagram.com/uldialogue/"
+    }
+  },
+  "nonUS": {
+    "text": {
+      "exploreLong": "Explore all of ul.com",
+      "exploreShort": "Explore UL",
+      "next": "Continue",
+      "cancel": "Cancel"
+    },
+    "urls": {
+      "careers": {
+        "text": "Careers",
+        "url": "https://www.ul.com/careers"
+      },
+      "contact": {
+        "text": "Contact",
+        "url": "https://www.ul.com/contact-us"
+      }
+    },
+    "features": [
+      {
+        "imgUrl": "img/feature1-1.jpg",
+        "title": "Offerings",
+        "copy": "We help you tackle your challenges with offerings tailored to business needs and industry issues, strategic solutions for the most complex problems, and services to address specific concerns.",
+        "cta": {
+          "text": "Overview",
+          "url": "https://www.ul.com/industries"
+        }
+      },
+      {
+        "imgUrl": "img/feature2-1.jpg",
+        "title": "Insights",
+        "copy": "Navigate your business in an increasingly complex world with industry leading research and actionable insights from UL.",
+        "cta": {
+          "text": "View all Insights",
+          "url": "https://www.ul.com/insights"
+        }
+      },
+      {
+        "imgUrl": "img/feature3-1.jpg",
+        "title": "News",
+        "copy": "Explore our press releases and news updates. Delve into detailed press kits for information on our work. If it’s UL and newsworthy, it’s here.",
+        "cta": {
+          "text": "Visit UL News",
+          "url": "https://www.ul.com/news"
+        }
+      }
+    ],
+    "aboutUL": {
+      "title": "About UL",
+      "copy": "We help people achieve what’s possible by empowering trust. Businesses, industries, governments, regulatory authorities and the public put their trust in us so they can make smarter decisions.",
+      "links": [
+        {
+          "text": "UL.com",
+          "url": "https://www.ul.com/"
+        },
+        {
+          "text": "Our Mission",
+          "url": "https://www.ul.com/about/mission"
+        },
+        {
+          "text": "Worldwide Locations",
+          "url": "https://www.ul.com/about/locations"
+        }
+      ]
+    },
+    "mobileLinks": [
+      {
+        "text": "UL.com",
+        "url": "https://www.ul.com/"
+      },
+      {
+        "text": "Our Mission",
+        "url": "https://www.ul.com/about/mission"
+      },
+      {
+        "text": "Worldwide Locations",
+        "url": "https://www.ul.com/about/locations"
+      },
+      {
+        "text": "Offerings",
+        "url": "https://www.ul.com/industries"
+      },
+      {
+        "text": "Insights",
+        "url": "https://www.ul.com/insights"
+      },
+      {
+        "text": "News",
+        "url": "https://www.ul.com/news"
+      }
+    ],
+    "airlockText": "The site is not available in {preferred} and is being presented in {current}",
+    "airlockPreferences": "Set Preferred Language",
+    "preferredLanguageModal": {
+      "title": "Preferred Language",
+      "subtitle": "Select your preferred global lan:uage."
+    },
+    "languageNames": {
+      "en": "English",
+"usen": "US English",
+      "de": "Deutsch",
+      "fr": "Français",
+      "es": "Español",
+      "pt": "Português",
+      "pt-br": "Português",
+      "tr": "Türk",
+      "it": "Italiano",
+      "ja": "日本語",
+      "jp": "日本語",
+      "zh-cn": "中文 - 中国",
+      "zhhans": "中文 - 中国",
+      "scn": "中文 - 中国",
+      "tcn": "中文 - 香港",
+      "zh-hans": "中文 - 中国",
+      "zh-hk": "中文 - 香港",
+      "zh-hant": "中文-繁體中文",
+      "zhhant": "中文-繁體中文",
+      "zh-mo": "中文 - 香港",
+      "zh-sg": "中文 - 香港",
+      "zh-tw": "中文-繁體中文",
+      "ko": "한국어",
+      "vi": "Tiếng Việt",
+      "th": "ภาษาไทย",
+      "po": "Polskie",
+      "nonUS": "Non-US English",
+      "hubUS": "Global"
+    },
+    "copyright": {
+      "text": "UL and the UL logo are trademarks of UL LLC © $year <span>All Rights Reserved.</span>"
+    },
+    "urls_footer": {
+      "online_policies": {
+        "text": "Online Policies",
+        "url_faas": "https://www.ul.com/customer-resources/online-policies/"
+      },
+      "about_cookies": {
+        "text": "About Cookies",
+        "url_faas": "https://www.ul.com/customer-resources/online-policies/about-cookies/"
+      },
+      "data_subject_access": {
+        "text": "Data Subject Access Request Portal",
+        "url_faas": "https://app-de.onetrust.com/app/#/webform/e348820f-6ffc-48f0-aa9f-2d80a79304fc"
+      },
+      "impressum": {
+        "text": "Impressum",
+        "url_impressum": "https://www.ul.com/impressum"
+      }
+    },
+    "social": {
+      "facebook": "https://www.facebook.com/ULDialogue",
+      "linkedin": "https://www.linkedin.com/company/ul-",
+      "twitter": "https://www.twitter.com/uldialogue",
+      "youtube": "https://www.youtube.com/user/ULdialogue",
+      "instagram": "https://www.instagram.com/uldialogue/"
+    }
+  },
+  "hubUS": {
+    "text": {
+      "exploreLong": "Explore all of ul.com",
+      "exploreShort": "Explore UL",
+      "next": "Continue",
+      "cancel": "Cancel"
+    },
+    "urls": {
+      "careers": {
+        "text": "Careers",
+        "url": "https://www.ul.com/careers"
+      },
+      "contact": {
+        "text": "Contact",
+        "url": "https://www.ul.com/contact-us"
+      }
+    },
+    "features": [
+      {
+        "imgUrl": "img/feature1-1.jpg",
+        "title": "Offerings",
+        "copy": "We help you tackle your challenges with offerings tailored to business needs and industry issues, strategic solutions for the most complex problems, and services to address specific concerns.",
+        "cta": {
+          "text": "Overview",
+          "url": "https://www.ul.com/industries"
+        }
+      },
+      {
+        "imgUrl": "img/feature2-1.jpg",
+        "title": "Insights",
+        "copy": "Navigate your business in an increasingly complex world with industry leading research and actionable insights from UL.",
+        "cta": {
+          "text": "View all Insights",
+          "url": "https://www.ul.com/insights"
+        }
+      },
+      {
+        "imgUrl": "img/feature3-1.jpg",
+        "title": "News",
+        "copy": "Explore our press releases and news updates. Delve into detailed press kits for information on our work. If it’s UL and newsworthy, it’s here.",
+        "cta": {
+          "text": "Visit UL News",
+          "url": "https://www.ul.com/news"
+        }
+      }
+    ],
+    "aboutUL": {
+      "title": "About UL",
+      "copy": "We help people achieve what’s possible by empowering trust. Businesses, industries, governments, regulatory authorities and the public put their trust in us so they can make smarter decisions.",
+      "links": [
+        {
+          "text": "UL.com",
+          "url": "https://www.ul.com/"
+        },
+        {
+          "text": "Our Mission",
+          "url": "https://www.ul.com/about/mission"
+        },
+        {
+          "text": "Worldwide Locations",
+          "url": "https://www.ul.com/about/locations"
+        }
+      ]
+    },
+    "mobileLinks": [
+      {
+        "text": "UL.com",
+        "url": "https://www.ul.com/"
+      },
+      {
+        "text": "Our Mission",
+        "url": "https://www.ul.com/about/mission"
+      },
+      {
+        "text": "Worldwide Locations",
+        "url": "https://www.ul.com/about/locations"
+      },
+      {
+        "text": "Offerings",
+        "url": "https://www.ul.com/industries"
+      },
+      {
+        "text": "Insights",
+        "url": "https://www.ul.com/insights"
+      },
+      {
+        "text": "News",
+        "url": "https://www.ul.com/news"
+      }
+    ],
+    "airlockText": "The site is not available in {preferred} and is being presented in {current}",
+    "airlockPreferences": "Set Preferred Language",
+    "preferredLanguageModal": {
+      "title": "Preferred Language",
+      "subtitle": "Select your preferred global lan:uage."
+    },
+    "languageNames": {
+      "en": "English",
+"usen": "US English",
+      "de": "Deutsch",
+      "fr": "Français",
+      "es": "Español",
+      "pt": "Português",
+      "pt-br": "Português",
+      "tr": "Türk",
+      "it": "Italiano",
+      "ja": "日本語",
+      "jp": "日本語",
+      "zh-cn": "中文 - 中国",
+      "zhhans": "中文 - 中国",
+      "scn": "中文 - 中国",
+      "tcn": "中文 - 香港",
+      "zh-hans": "中文 - 中国",
+      "zh-hk": "中文 - 香港",
+      "zh-hant": "中文-繁體中文",
+      "zhhant": "中文-繁體中文",
+      "zh-mo": "中文 - 香港",
+      "zh-sg": "中文 - 香港",
+      "zh-tw": "中文-繁體中文",
+      "ko": "한국어",
+      "vi": "Tiếng Việt",
+      "th": "ภาษาไทย",
+      "po": "Polskie",
+      "nonUS": "Non-US English",
+      "hubUS": "Global"
+    },
+    "copyright": {
+      "text": "UL and the UL logo are trademarks of UL LLC © $year <span>All Rights Reserved.</span>"
+    },
+    "urls_footer": {
+      "online_policies": {
+        "text": "Online Policies",
+        "url_faas": "https://www.ul.com/customer-resources/online-policies/"
+      },
+      "about_cookies": {
+        "text": "About Cookies",
+        "url_faas": "https://www.ul.com/customer-resources/online-policies/about-cookies/"
+      },
+      "data_subject_access": {
+        "text": "Data Subject Access Request Portal",
+        "url_faas": "https://app-de.onetrust.com/app/#/webform/e348820f-6ffc-48f0-aa9f-2d80a79304fc"
+      },
+      "impressum": {
+        "text": "Impressum",
+        "url_impressum": "https://www.ul.com/impressum"
+      }
+    },
+    "social": {
+      "facebook": "https://www.facebook.com/ULDialogue",
+      "linkedin": "https://www.linkedin.com/company/ul-",
+      "twitter": "https://www.twitter.com/uldialogue",
+      "youtube": "https://www.youtube.com/user/ULdialogue",
+      "instagram": "https://www.instagram.com/uldialogue/"
+    }
+  },
+  "usen": {
+    "text": {
+      "exploreLong": "Explore all of ul.com",
+      "exploreShort": "Explore UL",
+      "next": "Continue",
+      "cancel": "Cancel"
+    },
+    "urls": {
+      "careers": {
+        "text": "Careers",
+        "url": "https://www.ul.com/careers"
+      },
+      "contact": {
+        "text": "Contact",
+        "url": "https://www.ul.com/contact-us"
+      }
+    },
+    "features": [
+      {
+        "imgUrl": "img/feature1-1.jpg",
+        "title": "Offerings",
+        "copy": "We help you tackle your challenges with offerings tailored to business needs and industry issues, strategic solutions for the most complex problems, and services to address specific concerns.",
+        "cta": {
+          "text": "Overview",
+          "url": "https://www.ul.com/industries"
+        }
+      },
+      {
+        "imgUrl": "img/feature2-1.jpg",
+        "title": "Insights",
+        "copy": "Navigate your business in an increasingly complex world with industry leading research and actionable insights from UL.",
+        "cta": {
+          "text": "View all Insights",
+          "url": "https://www.ul.com/insights"
+        }
+      },
+      {
+        "imgUrl": "img/feature3-1.jpg",
+        "title": "News",
+        "copy": "Explore our press releases and news updates. Delve into detailed press kits for information on our work. If it’s UL and newsworthy, it’s here.",
+        "cta": {
+          "text": "Visit UL News",
+          "url": "https://www.ul.com/news"
+        }
+      }
+    ],
+    "aboutUL": {
+      "title": "About UL",
+      "copy": "We help people achieve what’s possible by empowering trust. Businesses, industries, governments, regulatory authorities and the public put their trust in us so they can make smarter decisions.",
+      "links": [
+        {
+          "text": "UL.com",
+          "url": "https://www.ul.com/"
+        },
+        {
+          "text": "Our Mission",
+          "url": "https://www.ul.com/about/mission"
+        },
+        {
+          "text": "Worldwide Locations",
+          "url": "https://www.ul.com/about/locations"
+        }
+      ]
+    },
+    "mobileLinks": [
+      {
+        "text": "UL.com",
+        "url": "https://www.ul.com/"
+      },
+      {
+        "text": "Our Mission",
+        "url": "https://www.ul.com/about/mission"
+      },
+      {
+        "text": "Worldwide Locations",
+        "url": "https://www.ul.com/about/locations"
+      },
+      {
+        "text": "Offerings",
+        "url": "https://www.ul.com/industries"
+      },
+      {
+        "text": "Insights",
+        "url": "https://www.ul.com/insights"
+      },
+      {
+        "text": "News",
+        "url": "https://www.ul.com/news"
+      }
+    ],
+    "airlockText": "The site is not available in {preferred} and is being presented in {current}",
+    "airlockPreferences": "Set Preferred Language",
+    "preferredLanguageModal": {
+      "title": "Preferred Language",
+      "subtitle": "Select your preferred global lan:uage."
+    },
+    "languageNames": {
+      "en": "English",
+      "usen": "US English",
+      "de": "Deutsch",
+      "fr": "Français",
+      "es": "Español",
+      "pt": "Português",
+      "pt-br": "Português",
+      "tr": "Türk",
+      "it": "Italiano",
+      "ja": "日本語",
+      "jp": "日本語",
+      "zh-cn": "中文 - 中国",
+      "zhhans": "中文 - 中国",
+      "scn": "中文 - 中国",
+      "tcn": "中文 - 香港",
+      "zh-hans": "中文 - 中国",
+      "zh-hk": "中文 - 香港",
+      "zh-hant": "中文-繁體中文",
+      "zhhant": "中文-繁體中文",
+      "zh-mo": "中文 - 香港",
+      "zh-sg": "中文 - 香港",
+      "zh-tw": "中文-繁體中文",
+      "ko": "한국어",
+      "vi": "Tiếng Việt",
+      "th": "ภาษาไทย",
+      "po": "Polskie",
+      "nonUS": "Non-US English",
+      "hubUS": "Global"
+    },
+    "copyright": {
+      "text": "UL and the UL logo are trademarks of UL LLC © $year <span>All Rights Reserved.</span>"
+    },
+    "urls_footer": {
+      "online_policies": {
+        "text": "Online Policies",
+        "url_faas": "https://www.ul.com/customer-resources/online-policies/"
+      },
+      "about_cookies": {
+        "text": "About Cookies",
+        "url_faas": "https://www.ul.com/customer-resources/online-policies/about-cookies/"
+      },
+      "data_subject_access": {
+        "text": "Data Subject Access Request Portal",
+        "url_faas": "https://app-de.onetrust.com/app/#/webform/e348820f-6ffc-48f0-aa9f-2d80a79304fc"
+      },
+      "impressum": {
+        "text": "Impressum",
+        "url_impressum": "https://www.ul.com/impressum"
+      }
+    },
+    "social": {
+      "facebook": "https://www.facebook.com/ULDialogue",
+      "linkedin": "https://www.linkedin.com/company/ul-",
+      "twitter": "https://www.twitter.com/uldialogue",
+      "youtube": "https://www.youtube.com/user/ULdialogue",
+      "instagram": "https://www.instagram.com/uldialogue/"
+    }
+  }
+}

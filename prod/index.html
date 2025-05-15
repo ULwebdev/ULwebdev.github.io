@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Example GNaaS Implementation</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	</head>
+	<body class="ul-body">
+		<div class="ul-content" style="background: pink; height: 100px; width: 100%;"></div>
+
+		<!-- GNaaS configuration start -->
+		<script src="//code.jquery.com/jquery-3.4.1.min.js"></script>
+		<script defer src="index.js"></script>
+		<script defer>
+			jQuery(document).ready(function() {
+				UL_GnaaS({
+					env: 'dev',
+					contactPageUrl: 'https://colombia.ulstage.com/ul-colombia',
+          lang: "es",
+					log: true,
+				})
+			})
+		</script>
+		<!-- GNaaS configuration end -->
+	</body>
+</html>
