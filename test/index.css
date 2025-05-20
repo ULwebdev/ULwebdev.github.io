@@ -18,11 +18,11 @@ body {
 
 @font-face {
   font-family: "Poppins Regular";
-  src: url("https://commons.ul.com/gnaas/dev/fonts/Poppins/Poppins-Regular.ttf") format("truetype"); }
+  src: url("https://ulwebdev.github.io/gnaas-pub/dev/fonts/Poppins/Poppins-Regular.ttf") format("truetype"); }
 
 @font-face {
   font-family: "Poppins Semibold";
-  src: url("https://commons.ul.com/gnaas/dev/fonts/Poppins/Poppins-Semibold.ttf") format("truetype"); }
+  src: url("https://ulwebdev.github.io/gnaas-pub/dev/fonts/Poppins/Poppins-Semibold.ttf") format("truetype"); }
 
 /**
  * TODO/bugfix:
@@ -30,7 +30,7 @@ body {
  */
 @font-face {
   font-family: icomoon;
-  src: url("https://commons.ul.com/gnaas/dev/fonts/icomoon/icomoon.ttf?fdh9g9") format("truetype"), url("https://commons.ul.com/gnaas/dev//fonts/icomoon/icomoon.ttf?fdh9g9") format("woff"), url("https://commons.ul.com/gnaas/dev//fonts/icomoon/icomoon.ttf?fdh9g9") format("svg");
+  src: url("https://ulwebdev.github.io/gnaas-pub/dev/fonts/icomoon/icomoon.ttf?fdh9g9") format("truetype"), url("https://ulwebdev.github.io/gnaas-pub/dev//fonts/icomoon/icomoon.ttf?fdh9g9") format("woff"), url("https://ulwebdev.github.io/gnaas-pub/dev//fonts/icomoon/icomoon.ttf?fdh9g9") format("svg");
   font-weight: normal;
   font-style: normal; }
 
@@ -99,11 +99,11 @@ body {
 
 @font-face {
   font-family: "Poppins Regular";
-  src: url("https://commons.ul.com/gnaas/dev/fonts/Poppins/Poppins-Regular.ttf") format("truetype"); }
+  src: url("https://ulwebdev.github.io/gnaas-pub/dev/fonts/Poppins/Poppins-Regular.ttf") format("truetype"); }
 
 @font-face {
   font-family: "Poppins Semibold";
-  src: url("https://commons.ul.com/gnaas/dev/fonts/Poppins/Poppins-Semibold.ttf") format("truetype"); }
+  src: url("https://ulwebdev.github.io/gnaas-pub/dev/fonts/Poppins/Poppins-Semibold.ttf") format("truetype"); }
 
 /**
  * TODO/bugfix:
@@ -111,7 +111,7 @@ body {
  */
 @font-face {
   font-family: icomoon;
-  src: url("https://commons.ul.com/gnaas/dev/fonts/icomoon/icomoon.ttf?fdh9g9") format("truetype"), url("https://commons.ul.com/gnaas/dev//fonts/icomoon/icomoon.ttf?fdh9g9") format("woff"), url("https://commons.ul.com/gnaas/dev//fonts/icomoon/icomoon.ttf?fdh9g9") format("svg");
+  src: url("https://ulwebdev.github.io/gnaas-pub/dev/fonts/icomoon/icomoon.ttf?fdh9g9") format("truetype"), url("https://ulwebdev.github.io/gnaas-pub/dev//fonts/icomoon/icomoon.ttf?fdh9g9") format("woff"), url("https://ulwebdev.github.io/gnaas-pub/dev//fonts/icomoon/icomoon.ttf?fdh9g9") format("svg");
   font-weight: normal;
   font-style: normal; }
 
@@ -409,11 +409,11 @@ body {
 
 @font-face {
   font-family: "Poppins Regular";
-  src: url("https://commons.ul.com/gnaas/dev/fonts/Poppins/Poppins-Regular.ttf") format("truetype"); }
+  src: url("https://ulwebdev.github.io/gnaas-pub/dev/fonts/Poppins/Poppins-Regular.ttf") format("truetype"); }
 
 @font-face {
   font-family: "Poppins Semibold";
-  src: url("https://commons.ul.com/gnaas/dev/fonts/Poppins/Poppins-Semibold.ttf") format("truetype"); }
+  src: url("https://ulwebdev.github.io/gnaas-pub/dev/fonts/Poppins/Poppins-Semibold.ttf") format("truetype"); }
 
 /**
  * TODO/bugfix:
@@ -421,7 +421,7 @@ body {
  */
 @font-face {
   font-family: icomoon;
-  src: url("https://commons.ul.com/gnaas/dev/fonts/icomoon/icomoon.ttf?fdh9g9") format("truetype"), url("https://commons.ul.com/gnaas/dev//fonts/icomoon/icomoon.ttf?fdh9g9") format("woff"), url("https://commons.ul.com/gnaas/dev//fonts/icomoon/icomoon.ttf?fdh9g9") format("svg");
+  src: url("https://ulwebdev.github.io/gnaas-pub/dev/fonts/icomoon/icomoon.ttf?fdh9g9") format("truetype"), url("https://ulwebdev.github.io/gnaas-pub/dev//fonts/icomoon/icomoon.ttf?fdh9g9") format("woff"), url("https://ulwebdev.github.io/gnaas-pub/dev//fonts/icomoon/icomoon.ttf?fdh9g9") format("svg");
   font-weight: normal;
   font-style: normal; }
 
